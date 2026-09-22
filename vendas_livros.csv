@@ -1,0 +1,626 @@
+id_venda,data_venda,livro,autor,categoria,preco_unitario,quantidade,cliente_id,cidade,forma_pagamento,canal_venda,avaliacao
+174,19/07/2025,1984,George Orwell,Ficção,"R$40,85",2,CLI1084,salvador,Cartão de Débito,Loja Física,
+178,17/02/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,27.13,1,CLI1153,CURITIBA,Pix,Telefone,cinco
+76,14/03/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$ 76,20",5,CLI1173,OSASCO ,Cartão de Débito,Marketplace,4
+17,25/07/25,O Hobbit,J.R.R. Tolkien,Fantasia,"R$31,54",5,CLI1042,São Paulo,Cartão de Débito,Site,1
+562,13/11/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 64,97",1,CLI1147,salvador,Cartão de Crédito,Loja Física,
+368,11/08/25,Duna,Frank Herbert,Ficção Científica,,3,CLI1030,curitiba ,Boleto,Site,4
+385,16/01/2026,O Poder do Hábito,Charles Duhigg,nao ficção,"R$70,31",4,CLI1152,Belo Horizonte,,Site,cinco
+81,20/06/2025,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$34,75",1,CLI1032,Belo Horizonte,,Loja Física,4
+80,20/02/25,Duna,Frank Herbert,ficção científica,"R$51,03",2,CLI1139,Osasco,Pix,Site,5
+224,17/06/25,Dom Casmurro,Machado de Assis,CLASSICO,"R$41,20",1,CLI1023,sao paulo,Boleto,Marketplace,3
+486,04-07-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,27.62,1,CLI1142,Osasco,Cartão de Crédito,Site,5
+559,08/10/25,Python Fluente,Luciano Ramalho,Técnico,"R$32,72",-5,CLI1017,osasco,Cartão de Crédito,Telefone,5
+390,03-04-2025,"PAI RICO, PAI POBRE",Robert Kiyosaki,nao ficção,41.46,5,CLI1033,Salvador,Boleto,Site,2
+250,27-04-2025,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$79,98",1,CLI1076,osasco,Cartão de Débito,Marketplace,3
+370,2025-05-15,1984,George Orwell,Ficção,53.21,1,CLI1102,RJ,,Telefone,2
+29,10/06/25,A Menina que Roubava Livros,Markus Zusak,Ficção,"R$ 27,49",4,CLI1155,RJ,,Site,4
+568,14/03/25,1984,George Orwell,ficcao,"R$51,12",2,CLI1138,OSASCO ,Boleto,Loja Física,5
+5,2025-12-16,Clean Code,Robert C. Martin,técnico,"R$ 34,57",2,CLI1155,RJ,Boleto,Loja Física,2
+150,27-12-2025,O Alquimista,Paulo Coelho,ficcao,"R$ 41,38",4,CLI1176,Salvador,Cartão de Crédito,Marketplace,5
+428,18/08/2025,A Revolução dos Bichos,George Orwell,CLASSICO,"R$80,82",1,CLI1173,Osasco,Pix,Site,4
+302,2025-04-24,A Menina que Roubava Livros,Markus Zusak,ficção,"R$48,79",1,CLI1064,RJ,Boleto,Site,cinco
+375,13/11/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$ 24,11",2,CLI1013,SÃO PAULO,Cartão de Débito,Site,5
+245,10/02/2025,O Poder do Hábito,Charles Duhigg,nao ficção,59.99,2,CLI1182,CURITIBA,Cartão de Crédito,Loja Física,4
+455,23/12/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$ 57,08",5,CLI1115,Curitiba,Cartão de Débito,Loja Física,2
+310,29-11-2025,Python Fluente,Luciano Ramalho,técnico,"R$84,15",1,CLI1026,osasco,,Marketplace,5
+303,2025-04-12,O Alquimista,Paulo Coelho,Ficção,"R$ 40,25",1,CLI1124,curitiba ,Pix,Marketplace,cinco
+294,25-11-2025,Mindset,Carol Dweck,Não-ficção,"R$27,93",3,CLI1159,curitiba ,Boleto,Site,cinco
+197,2025-11-09,A Revolução dos Bichos,George Orwell,Clássico,"R$76,65",3,CLI1042,sao paulo,,Loja Física,4
+146,29-05-2025,Python Fluente,Luciano Ramalho,técnico,"R$75,06",1,CLI1002,Rio de Janeiro,Pix,Site,1
+580,24/06/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$37,20",5,CLI1085,salvador,,Loja Física,1
+479,21/03/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$ 48,74",1,CLI1056,osasco,Boleto,Site,
+516,08/07/25,1984,George Orwell,ficcao,"R$61,93",1,CLI1145,S. Paulo,Cartão de Crédito,Site,3
+447,04/12/2025,Dom Casmurro,Machado de Assis,CLASSICO,"R$55,43",5,CLI1070,curitiba ,Cartão de Crédito,Loja Física,4
+177,2025-06-07,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,45.15,-1,CLI1092,Rio De Janeiro,Pix,Site,
+233,11-11-2025,O Alquimista,Paulo Coelho,Ficção,"R$ 56,75",1,CLI1033,rio de janeiro,Pix,Loja Física,4
+433,15-07-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$ 74,55",2,CLI1085,osasco,Cartão de Crédito,Marketplace,4
+465,2025-03-24,O Alquimista,Paulo Coelho,FICÇÃO,"R$ 51,81",1,CLI1073,RJ,Boleto,Loja Física,
+135,2025-07-25,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$72,75",2,CLI1010,OSASCO ,Cartão de Crédito,Site,
+61,25-01-2026,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$63,48",5,CLI1052,sao paulo,Pix,Loja Física,1
+60,11/06/2025,Duna,Frank Herbert,FICCAO CIENTIFICA,,1,CLI1082,belo horizonte,Cartão de Crédito,Telefone,5
+101,2025-03-30,O Alquimista,Paulo Coelho,FICÇÃO,"R$88,67",1,CLI1063,Belo Horizonte,Cartão de Débito,Telefone,1
+255,05-01-2025,O Hobbit,J.R.R. Tolkien,fantasia,83.71,1,CLI1064,Salvador,,Marketplace,4
+39,15/01/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$54,08",2,CLI1086,belo horizonte,Cartão de Débito,Loja Física,4
+139,15/04/2025,Dom Casmurro,Machado de Assis,clássico,,1,CLI1128,Rio de Janeiro,,Telefone,4
+525,03/01/25,1984,George Orwell,FICÇÃO,"R$ 59,33",2,CLI1196, Salvador,,Loja Física,
+217,22-09-2025,Clean Code,Robert C. Martin,TECNICO,46.00,1,CLI1102,Osasco,Cartão de Crédito,Telefone,1
+386,2025-08-14,O Alquimista,Paulo Coelho,Ficção,"R$58,94",1,CLI1077,Rio De Janeiro,Pix,Telefone,4
+75,07-07-2025,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$32,19",1,CLI1128,OSASCO ,Pix,Loja Física,
+418,15/03/2025,O Poder do Hábito,Charles Duhigg,nao-ficção,"R$29,30",1,CLI1168,RJ,Cartão de Débito,Loja Física,
+475,09/09/25,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$ 28,59",2,CLI1007, Salvador,Cartão de Crédito,Marketplace,4
+136,10-11-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,,1,CLI1041,Belo Horizonte,Cartão de Débito,Marketplace,5
+445,16/04/25,Python Fluente,Luciano Ramalho,técnico,"R$ 49,04",5,CLI1163, São Paulo,Pix,Telefone,3
+259,2025-12-10,O Hobbit,J.R.R. Tolkien,FANTASIA,69.84,5,CLI1129,RJ,Pix,Loja Física,5
+532,25/01/25,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,78.81,4,CLI1019,rio de janeiro,Cartão de Crédito,Site,
+553,01-07-2025,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$ 78,81",2,CLI1012,Curitiba,Cartão de Crédito,Telefone,2
+514,12-01-2026,O Hobbit,J.R.R. Tolkien,FANTASIA,67.90,3,CLI1066,Salvador,Boleto,Marketplace,3
+322,2025-12-04,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,,4,CLI1191,OSASCO ,Boleto,Telefone,2
+522,15/05/25,1984,George Orwell,FICÇÃO,84.74,2,CLI1194,belo horizonte,Pix,Marketplace,cinco
+453,25/09/25,1984,George Orwell,ficção,"R$60,37",2,CLI1055, Salvador,,Telefone,
+527,2025-01-23,A Revolução dos Bichos,George Orwell,clássico,"R$61,49",1,CLI1115,BH,Pix,Loja Física,cinco
+330,2025-07-01,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$ 25,22",1,CLI1146,S. Paulo,Pix,Loja Física,4
+141,27/12/25,Sapiens,Yuval Noah Harari,NÃO-FICÇÃO,"R$35,64",2,CLI1176,OSASCO ,Cartão de Débito,Marketplace,4
+461,08/07/2025,A Revolução dos Bichos,George Orwell,Clássico,"R$ 52,81",2,CLI1048,CURITIBA,Cartão de Débito,Site,2
+535,01/03/25,Mindset,Carol Dweck,Não-ficção,"R$50,27",-1,CLI1043,OSASCO ,Cartão de Débito,Telefone,1
+44,04/11/25,Mindset,Carol Dweck,nao-ficção,"R$ 27,03",2,CLI1144, Salvador,Cartão de Crédito,Marketplace,2
+132,16/09/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,54.72,1,CLI1061,belo horizonte,Boleto,Marketplace,
+456,16/02/25,Duna,Frank Herbert,Ficção Científica,"R$44,99",2,CLI1122,Belo Horizonte,Pix,Loja Física,1
+16,23/05/2025,Dom Casmurro,Machado de Assis,Clássico,"R$57,44",1,CLI1063,rio de janeiro,Cartão de Crédito,Telefone,
+215,21/10/2025,O Alquimista,Paulo Coelho,ficção,"R$ 45,64",2,CLI1058,BH,,Site,2
+485,2025-02-24,O Hobbit,J.R.R. Tolkien,fantasia,68.77,1,CLI1090,salvador,Cartão de Débito,Telefone,3
+149,18-06-2025,Python Fluente,Luciano Ramalho,técnico,"R$46,75",5,CLI1149,Rio de Janeiro,,Site,5
+358,2025-10-03,Mindset,Carol Dweck,nao-ficção,42.35,1,CLI1048,OSASCO ,,Telefone,4
+116,21-01-2026,Python Fluente,Luciano Ramalho,técnico,"R$55,98",5,CLI1073,SÃO PAULO,Pix,Site,4
+127,2025-06-05,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$33,64",2,CLI1136,Osasco,Cartão de Crédito,Loja Física,cinco
+57,25/12/25,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$ 50,64",5,CLI1069,CURITIBA,,Telefone,4
+586,11-04-2025,A Menina que Roubava Livros,Markus Zusak,ficção,23.91,1,CLI1163,Osasco,Boleto,Site,4
+276,09/12/25,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$ 60,27",2,CLI1132, Salvador,,Site,5
+417,06/12/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,48.32,4,CLI1121,OSASCO ,Boleto,Loja Física,3
+164,2025-01-08,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$34,52",3,CLI1048,Curitiba,Cartão de Crédito,Telefone,4
+406,2025-05-21,A Menina que Roubava Livros,Markus Zusak,ficcao,,2,CLI1003,curitiba ,,Site,2
+185,10/11/25,Mindset,Carol Dweck,Não-ficção,"R$ 73,73",3,CLI1144,Salvador,Cartão de Débito,Marketplace,1
+493,17/01/25,Dom Casmurro,Machado de Assis,clássico,79.60,5,CLI1142,belo horizonte,Pix,Loja Física,3
+285,11-10-2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$ 78,92",3,CLI1051,CURITIBA,Boleto,Marketplace,4
+494,22/03/25,O Poder do Hábito,Charles Duhigg,nao ficção,66.11,5,CLI1014,Belo Horizonte,Cartão de Débito,Marketplace,
+58,2025-10-22,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$21,71",2,CLI1005,salvador,Pix,Site,cinco
+575,2025-11-23,Clean Code,Robert C. Martin,técnico,"R$83,22",-2,CLI1028,SÃO PAULO,Pix,Telefone,4
+566,03/05/25,1984,George Orwell,FICÇÃO,"R$ 46,19",1,CLI1150,belo horizonte,Boleto,Telefone,cinco
+154,24/10/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$ 47,62",1,CLI1011,OSASCO ,Cartão de Débito,Marketplace,2
+137,11/12/2025,A Revolução dos Bichos,George Orwell,clássico,"R$ 53,14",1,CLI1106, Salvador,,Marketplace,2
+26,01/04/25,Clean Code,Robert C. Martin,TECNICO,"R$72,36",2,CLI1006,curitiba ,Boleto,Marketplace,4
+440,2025-01-22,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 43,65",3,CLI1030,Belo Horizonte,Boleto,Telefone,4
+459,01/02/2026,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$32,17",1,CLI1035,SÃO PAULO,Pix,Loja Física,4
+298,28-07-2025,"PAI RICO, PAI POBRE",Robert Kiyosaki,Não-ficção,"R$60,15",2,CLI1115,OSASCO ,Cartão de Débito,Telefone,4
+48,27-11-2025,Sapiens,Yuval Noah Harari,nao ficção,"R$58,76",2,CLI1114,salvador,Cartão de Crédito,Site,
+284,08-11-2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$ 55,19",4,CLI1070, Salvador,Cartão de Débito,Marketplace,4
+502,04/05/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$56,46",3,CLI1191,curitiba ,Pix,Telefone,3
+389,2025-07-14,Dom Casmurro,Machado de Assis,clássico,"R$ 70,78",1,CLI1196,CURITIBA,Boleto,Marketplace,1
+279,2025-10-13,Dom Casmurro,Machado de Assis,CLASSICO,21.14,4,CLI1000,BH,Cartão de Crédito,Marketplace,
+37,29/04/2025,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,42.28,1,CLI1177,RJ,Boleto,Loja Física,4
+84,04/12/2025,Mindset,Carol Dweck,nao-ficção,"R$86,08",1,CLI1077,S. Paulo,Cartão de Débito,Site,
+202,16/12/2025,Clean Code,Robert C. Martin,Técnico,"R$59,53",5,CLI1011,CURITIBA,Cartão de Crédito,Telefone,1
+68,2026-01-24,Dom Casmurro,Machado de Assis,CLASSICO,"R$46,50",3,CLI1138,OSASCO ,Cartão de Crédito,Site,
+54,14-01-2026,O Hobbit,J.R.R. Tolkien,fantasia,"R$ 59,70",1,CLI1195,curitiba ,Boleto,Loja Física,2
+556,02/08/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$ 85,07",5,CLI1036,belo horizonte,,Loja Física,3
+243,15-07-2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$ 26,28",4,CLI1047,belo horizonte,Cartão de Débito,Site,5
+352,23-03-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$ 67,60",2,CLI1190,Rio De Janeiro,,Site,1
+448,06-07-2025,Python Fluente,Luciano Ramalho,Técnico,"R$31,08",1,CLI1053,belo horizonte,Cartão de Débito,Marketplace,5
+388,21/12/2025,1984,George Orwell,ficção,"R$81,68",1,CLI1183,BH,Cartão de Crédito,Site,3
+232,16-10-2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$ 21,87",3,CLI1144,salvador,Boleto,Telefone,3
+520,16-09-2025,O Alquimista,Paulo Coelho,ficcao,"R$83,48",-1,CLI1097,Osasco,Pix,Telefone,cinco
+315,2025-08-30,O Alquimista,Paulo Coelho,FICÇÃO,"R$86,21",2,CLI1043, Salvador,Boleto,Telefone,
+1,22/02/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$ 39,15",2,CLI1022,São Paulo,,Telefone,
+415,14/12/2025,Mindset,Carol Dweck,nao-ficção,,3,CLI1111,curitiba ,Pix,Site,5
+373,28/01/2025,Sapiens,Yuval Noah Harari,nao-ficção,"R$72,94",1,CLI1158,salvador,Boleto,Marketplace,4
+309,2025-09-07,Mindset,Carol Dweck,nao ficção,"R$ 85,64",1,CLI1016,Salvador,Pix,Marketplace,4
+590,06-05-2025,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$ 70,22",3,CLI1050,rio de janeiro,Cartão de Crédito,Loja Física,3
+272,2025-03-01,O Hobbit,J.R.R. Tolkien,fantasia,"R$ 45,12",3,CLI1194,Rio de Janeiro,Cartão de Crédito,Site,2
+598,27/04/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,40.52,1,CLI1030,SÃO PAULO,Cartão de Crédito,Marketplace,2
+198,27/12/2025,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$61,68",1,CLI1074,OSASCO ,,Marketplace,5
+289,17-12-2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$23,19",4,CLI1141,OSASCO ,Cartão de Crédito,Site,5
+175,11-11-2025,O Alquimista,Paulo Coelho,ficção,78.61,3,CLI1101,S. Paulo,Pix,Site,cinco
+353,2025-03-27,CLEAN CODE,Robert C. Martin,Técnico,"R$ 36,42",4,CLI1149,sao paulo,Cartão de Crédito,Telefone,5
+572,31/07/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$20,20",1,CLI1178, São Paulo,Cartão de Débito,Telefone,
+492,05/10/2025,A Revolução dos Bichos,George Orwell,clássico,"R$66,25",5,CLI1138,Belo Horizonte,,Site,5
+251,24/01/2026,Dom Casmurro,Machado de Assis,Clássico,,4,CLI1095,Rio De Janeiro,Cartão de Crédito,Loja Física,
+82,16/03/2025,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$ 74,11",1,CLI1138,rio de janeiro,Pix,Loja Física,3
+504,19/01/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$59,09",4,CLI1040,osasco,Pix,Loja Física,4
+596,13/02/25,A Menina que Roubava Livros,Markus Zusak,ficção,"R$ 85,38",3,CLI1192,belo horizonte,Cartão de Crédito,Marketplace,3
+287,13-04-2025,O Alquimista,Paulo Coelho,Ficção,"R$ 46,56",1,CLI1192,Curitiba,Boleto,Marketplace,5
+179,28/03/25,Dom Casmurro,Machado de Assis,Clássico,"R$ 59,94",1,CLI1068, Salvador,Pix,Marketplace,3
+209,2025-02-06,O Alquimista,Paulo Coelho,ficcao,"R$27,79",5,CLI1003,Rio De Janeiro,Pix,Marketplace,
+190,02/10/25,Duna,Frank Herbert,ficção científica,"R$72,56",1,CLI1093,rio de janeiro,Pix,Loja Física,3
+348,2025-08-22,A Menina que Roubava Livros,Markus Zusak,Ficção,,,CLI1115,Belo Horizonte,Pix,Telefone,cinco
+269,13/11/25,A Menina que Roubava Livros,Markus Zusak,ficção,"R$ 49,22",1,CLI1072,CURITIBA,Cartão de Crédito,Site,2
+244,26/06/2025,O Hobbit,J.R.R. Tolkien,Fantasia,"R$30,48",1,CLI1105,OSASCO ,,Loja Física,
+478,17-12-2025,1984,George Orwell,ficção,"R$ 57,96",3,CLI1069, São Paulo,Pix,Site,5
+317,11/11/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$ 77,76",1,CLI1009,CURITIBA,,Site,cinco
+538,19/08/25,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 69,08",5,CLI1062,rio de janeiro,Boleto,Marketplace,cinco
+573,12/07/2025,Dom Casmurro,Machado de Assis,CLASSICO,51.06,1,CLI1091,Curitiba,Cartão de Débito,Loja Física,cinco
+241,2025-01-26,Sapiens,Yuval Noah Harari,NÃO-FICÇÃO,"R$ 66,14",2,CLI1146,BH,,Telefone,4
+374,25/09/2025,A Menina que Roubava Livros,Markus Zusak,Ficção,"R$43,13",2,CLI1140,belo horizonte,Cartão de Débito,Loja Física,5
+264,02-09-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$64,24",4,CLI1001,sao paulo,Cartão de Crédito,Loja Física,4
+378,16-01-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$37,94",4,CLI1071,Osasco,Boleto,Loja Física,
+30,05-02-2025,O Alquimista,Paulo Coelho,Ficção,"R$56,29",2,CLI1159,salvador,Pix,Site,5
+191,28-06-2025,A Revolução dos Bichos,George Orwell,clássico,"R$61,69",4,CLI1117,CURITIBA,,Loja Física,5
+290,07/10/25,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$69,22",3,CLI1050,Belo Horizonte,Boleto,Marketplace,cinco
+518,2025-01-15,Sapiens,Yuval Noah Harari,nao-ficção,"R$49,18",4,CLI1067,OSASCO ,Boleto,Telefone,5
+342,19/07/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$ 63,17",1,CLI1058,São Paulo,Boleto,Marketplace,5
+400,29/01/2025,O Hobbit,J.R.R. Tolkien,fantasia,"R$74,78",4,CLI1076,curitiba ,,Marketplace,
+370,2025-05-15,1984,George Orwell,Ficção,53.21,1,CLI1102,RJ,,Telefone,2
+67,02-12-2025,A Revolução dos Bichos,George Orwell,clássico,20.97,1,CLI1019, São Paulo,Cartão de Débito,Marketplace,3
+546,2025-09-13,Dom Casmurro,Machado de Assis,Clássico,"R$ 70,88",5,CLI1039,RJ,Pix,Marketplace,2
+530,2025-11-04,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,81.88,5,CLI1023,Rio De Janeiro,Cartão de Débito,Marketplace,4
+261,21/11/25,Clean Code,Robert C. Martin,técnico,,1,CLI1148,OSASCO ,,Site,cinco
+407,23/06/2025,A Menina que Roubava Livros,Markus Zusak,ficção,"R$31,89",2,CLI1113,RJ,Cartão de Crédito,Loja Física,
+410,16/06/25,1984,George Orwell,FICÇÃO,47.35,3,CLI1124,curitiba ,Cartão de Crédito,Site,
+63,05/09/25,1984,George Orwell,FICÇÃO,"R$55,52",2,CLI1062,BH,Cartão de Débito,Loja Física,
+549,25/11/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$47,43",1,CLI1147,Rio De Janeiro,Cartão de Crédito,Marketplace,3
+234,06-12-2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$80,15",1,CLI1150,Rio de Janeiro,Cartão de Crédito,Marketplace,4
+332,10-09-2025,Mindset,Carol Dweck,Não-ficção,"R$79,26",3,CLI1070, São Paulo,Cartão de Débito,Loja Física,cinco
+405,2026-01-28,O Hobbit,J.R.R. Tolkien,fantasia,"R$ 52,58",1,CLI1005,Curitiba,,Marketplace,5
+95,21/10/2025,O Alquimista,Paulo Coelho,ficcao,"R$84,38",3,CLI1181,Belo Horizonte,Cartão de Débito,Marketplace,4
+513,2025-06-10,1984,George Orwell,ficção,"R$20,12",2,CLI1021,salvador,Cartão de Crédito,Loja Física,cinco
+536,2025-12-20,MINDSET,Carol Dweck,NÃO-FICÇÃO,"R$ 63,19",3,CLI1077,salvador,Cartão de Crédito,Loja Física,4
+131,2025-08-03,A Revolução dos Bichos,George Orwell,Clássico,23.44,4,CLI1040,rio de janeiro,Pix,Marketplace,4
+361,29/12/2025,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$ 24,15",4,CLI1157,S. Paulo,Pix,Site,1
+381,27/01/26,Duna,Frank Herbert,ficção científica,"R$78,67",1,CLI1105,sao paulo,Cartão de Débito,Marketplace,5
+423,16/10/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$ 22,37",2,CLI1015,osasco,Cartão de Débito,Loja Física,5
+397,02/03/2025,Mindset,Carol Dweck,nao-ficção,"R$20,01",1,CLI1157,RJ,Cartão de Débito,Telefone,4
+42,03/05/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$33,86",1,CLI1121,São Paulo,Cartão de Crédito,Loja Física,3
+145,27/11/2025,Python Fluente,Luciano Ramalho,TECNICO,"R$ 33,86",2,CLI1196,belo horizonte,Cartão de Crédito,Loja Física,1
+181,2025-08-09,O Poder do Hábito,Charles Duhigg,nao ficção,"R$ 76,19",3,CLI1034,OSASCO ,Pix,Marketplace,cinco
+32,19-09-2025,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$52,45",5,CLI1188,Rio De Janeiro,Boleto,Site,
+331,02/07/2025,Duna,Frank Herbert,Ficção Científica,"R$35,94",2,CLI1199,RJ,Cartão de Crédito,Site,3
+266,08/09/25,A MENINA QUE ROUBAVA LIVROS,Markus Zusak,FICÇÃO,"R$ 50,26",1,CLI1192,osasco,Boleto,Loja Física,5
+441,2025-11-13,Dom Casmurro,Machado de Assis,clássico,"R$65,67",5,CLI1062,sao paulo,Boleto,Site,1
+458,11/02/2025,O Alquimista,Paulo Coelho,FICÇÃO,68.76,2,CLI1085,osasco,Cartão de Crédito,Marketplace,cinco
+280,14/11/2025,Clean Code,Robert C. Martin,Técnico,"R$79,00",3,CLI1121,Osasco,Pix,Telefone,cinco
+555,17/08/25,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$24,25",1,CLI1094,Belo Horizonte,,Telefone,2
+529,12-01-2026,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$28,34",5,CLI1175,belo horizonte,,Loja Física,5
+438,05-12-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$32,26",1,CLI1076,OSASCO ,Cartão de Débito,Site,4
+511,21/05/25,Python Fluente,Luciano Ramalho,técnico,81.46,4,CLI1199,BH,Cartão de Débito,Telefone,2
+286,25-01-2026,Duna,Frank Herbert,FICCAO CIENTIFICA,57.87,3,CLI1143,Salvador,Cartão de Débito,Telefone,5
+495,07-07-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,24.20,1,CLI1189,osasco,,Site,5
+351,15/08/25,Python Fluente,Luciano Ramalho,Técnico,"R$ 28,44",2,CLI1188,osasco,Cartão de Crédito,Loja Física,4
+257,30/11/2025,Clean Code,Robert C. Martin,técnico,"R$80,20",2,CLI1048,OSASCO ,Boleto,Loja Física,5
+5,2025-12-16,Clean Code,Robert C. Martin,técnico,"R$ 34,57",2,CLI1155,RJ,Boleto,Loja Física,2
+186,14-12-2025,Sapiens,Yuval Noah Harari,nao-ficção,51.10,4,CLI1176,CURITIBA,,Loja Física,cinco
+599,06/11/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$ 72,06",2,CLI1192,osasco,,Marketplace,3
+345,24/01/2026,Clean Code,Robert C. Martin,Técnico,41.15,1,CLI1088,belo horizonte,Pix,Telefone,3
+286,25-01-2026,Duna,Frank Herbert,FICCAO CIENTIFICA,57.87,3,CLI1143,Salvador,Cartão de Débito,Telefone,5
+2,29-10-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$ 33,82",4,CLI1001,Curitiba,Boleto,Telefone,5
+451,2025-11-09,Sapiens,Yuval Noah Harari,nao ficção,"R$ 23,70",4,CLI1045,S. Paulo,Cartão de Débito,Marketplace,
+214,08/08/2025,O Hobbit,J.R.R. Tolkien,Fantasia,,1,CLI1134,OSASCO ,Cartão de Crédito,Marketplace,5
+51,28/01/2025,Clean Code,Robert C. Martin,Técnico,"R$69,46",1,CLI1074,RJ,Boleto,Telefone,
+236,12/06/25,1984,George Orwell,ficcao,"R$79,45",1,CLI1056,Rio de Janeiro,,Site,cinco
+444,20/11/25,O Poder do Hábito,Charles Duhigg,nao-ficção,"R$ 50,61",1,CLI1096,RJ,Boleto,Site,cinco
+359,08/03/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$ 56,52",1,CLI1008,Osasco,Boleto,Site,3
+414,2025-03-13,Mindset,Carol Dweck,nao ficção,,,CLI1193,belo horizonte,Cartão de Crédito,Loja Física,cinco
+19,05/02/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$87,15",1,CLI1017,Curitiba,Boleto,Telefone,cinco
+471,10-07-2025,O Alquimista,Paulo Coelho,ficcao,"R$30,26",4,CLI1072,salvador,Pix,Marketplace,1
+254,20-10-2025,Duna,Frank Herbert,ficção científica,,1,CLI1056,Salvador,Boleto,Loja Física,4
+144,2025-06-19,Sapiens,Yuval Noah Harari,nao-ficção,"R$64,56",1,CLI1025, São Paulo,Boleto,Site,
+480,15-08-2025,O Hobbit,J.R.R. Tolkien,fantasia,"R$44,27",3,CLI1133,Rio de Janeiro,Pix,Loja Física,cinco
+271,08-02-2025,Python Fluente,Luciano Ramalho,TECNICO,"R$ 54,49",1,CLI1065, São Paulo,Boleto,Telefone,2
+117,06-04-2025,O Poder do Hábito,Charles Duhigg,nao ficção,"R$82,52",4,CLI1177,BH,Cartão de Débito,Marketplace,
+446,2026-02-05,Duna,Frank Herbert,Ficção Científica,"R$70,10",1,CLI1089, São Paulo,Cartão de Débito,Site,5
+377,21-07-2025,1984,George Orwell,Ficção,"R$ 22,68",2,CLI1004,Rio De Janeiro,Pix,Marketplace,3
+222,2026-01-12,Sapiens,Yuval Noah Harari,NÃO-FICÇÃO,"R$ 84,72",4,CLI1081,osasco,Cartão de Débito,Marketplace,5
+551,04/06/25,Mindset,Carol Dweck,nao ficção,,,CLI1009,CURITIBA,,Marketplace,2
+526,30/10/2025,A Revolução dos Bichos,George Orwell,clássico,"R$21,72",1,CLI1082,Salvador,Boleto,Site,2
+187,25-06-2025,A Menina que Roubava Livros,Markus Zusak,Ficção,78.09,1,CLI1200,Belo Horizonte,Boleto,Telefone,
+142,22/07/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$28,43",4,CLI1197,salvador,Boleto,Marketplace,5
+323,16/03/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,31.15,1,CLI1153,OSASCO ,Cartão de Débito,Site,
+138,2025-11-19,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$70,40",5,CLI1198,CURITIBA,Cartão de Débito,Loja Física,cinco
+153,17/08/25,A Revolução dos Bichos,George Orwell,CLASSICO,"R$60,72",1,CLI1116,sao paulo,Boleto,Telefone,1
+77,23/11/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$67,00",2,CLI1027,S. Paulo,Boleto,Telefone,5
+229,06/10/25,Dom Casmurro,Machado de Assis,Clássico,"R$49,25",2,CLI1097,osasco,Pix,Telefone,1
+22,11-10-2025,1984,George Orwell,FICÇÃO,"R$ 62,72",1,CLI1169,BH,Cartão de Crédito,Loja Física,5
+336,05-01-2025,O Hobbit,J.R.R. Tolkien,Fantasia,75.90,1,CLI1107,Belo Horizonte,Cartão de Débito,Loja Física,3
+376,14/07/25,O Hobbit,J.R.R. Tolkien,Fantasia,,4,CLI1181,salvador,Cartão de Crédito,Marketplace,
+481,10/02/2025,Sapiens,Yuval Noah Harari,nao-ficção,"R$41,42",2,CLI1176,rio de janeiro,Cartão de Crédito,Site,4
+282,25/02/25,Dom Casmurro,Machado de Assis,clássico,"R$77,62",2,CLI1011,Belo Horizonte,,Site,4
+449,2025-01-15,A Revolução dos Bichos,George Orwell,CLASSICO,"R$23,57",1,CLI1131,São Paulo,Cartão de Crédito,Site,
+581,13/07/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,25.89,1,CLI1177,S. Paulo,Cartão de Crédito,Loja Física,5
+491,17/06/2025,Dom Casmurro,Machado de Assis,Clássico,,4,CLI1077,BH,,Site,3
+108,22-09-2025,1984,George Orwell,ficcao,,1,CLI1072,Osasco,Cartão de Crédito,Loja Física,2
+452,26-02-2025,Clean Code,Robert C. Martin,técnico,"R$ 28,80",1,CLI1117,Osasco,Cartão de Débito,Loja Física,
+195,23/08/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,,2,CLI1190,RJ,Cartão de Débito,Site,cinco
+437,05-06-2025,A Revolução dos Bichos,George Orwell,CLASSICO,85.35,3,CLI1014, São Paulo,Cartão de Crédito,Marketplace,4
+435,12/09/25,Dom Casmurro,Machado de Assis,CLASSICO,"R$37,44",-5,CLI1167, São Paulo,Cartão de Crédito,Site,3
+157,2025-05-07,A Revolução dos Bichos,George Orwell,CLASSICO,"R$49,59",4,CLI1088, Salvador,Boleto,Marketplace,
+509,06/12/25,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$87,58",1,CLI1176,Osasco,Boleto,Marketplace,1
+365,18-01-2025,DUNA,Frank Herbert,ficção científica,"R$51,22",-4,CLI1152,osasco,Cartão de Crédito,Loja Física,5
+363,2025-04-03,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$49,80",1,CLI1102,BH,,Marketplace,
+265,26-06-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$67,27",2,CLI1033,Curitiba,Cartão de Crédito,Telefone,5
+476,01-09-2025,Duna,Frank Herbert,ficção científica,"R$ 59,49",2,CLI1095,OSASCO ,,Site,2
+97,28/06/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 57,04",2,CLI1186,Rio de Janeiro,Boleto,Loja Física,5
+237,2025-12-10,Sapiens,Yuval Noah Harari,nao-ficção,"R$ 64,43",1,CLI1114,osasco,Cartão de Crédito,Marketplace,5
+93,07/06/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$27,66",5,CLI1056,SÃO PAULO,Cartão de Débito,Site,1
+296,2026-01-31,Sapiens,Yuval Noah Harari,Não-ficção,"R$86,27",1,CLI1136,OSASCO ,Cartão de Crédito,Site,
+124,10-10-2025,1984,George Orwell,Ficção,"R$45,16",3,CLI1156,Rio De Janeiro,Cartão de Crédito,Site,3
+454,30/10/2025,Duna,Frank Herbert,ficção científica,50.30,2,CLI1146,rio de janeiro,Cartão de Crédito,Telefone,3
+221,16/09/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$51,99",1,CLI1163,BH,Cartão de Débito,Site,3
+484,02/01/2026,Mindset,Carol Dweck,Não-ficção,"R$77,27",1,CLI1072,Rio de Janeiro,Boleto,Site,4
+460,17/05/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,72.62,2,CLI1174,CURITIBA,Cartão de Débito,Marketplace,
+297,06/02/2025,O Hobbit,J.R.R. Tolkien,Fantasia,"R$ 34,29",4,CLI1006,salvador,Cartão de Débito,Marketplace,3
+248,02/10/25,Mindset,Carol Dweck,Não-ficção,59.29,1,CLI1105,Curitiba,Pix,Telefone,5
+115,11-03-2025,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$52,42",5,CLI1183,Salvador,Cartão de Débito,Site,2
+293,24-04-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$57,92",4,CLI1169,Curitiba,Pix,Marketplace,4
+74,27-11-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$ 78,58",1,CLI1079, Salvador,Cartão de Débito,Site,1
+306,13/03/2025,A Revolução dos Bichos,George Orwell,Clássico,"R$65,09",1,CLI1050,Curitiba,Pix,Site,
+560,2025-09-16,Python Fluente,Luciano Ramalho,técnico,78.31,1,CLI1194,osasco,Cartão de Débito,Telefone,
+156,03/10/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$80,12",1,CLI1135,Curitiba,Boleto,Loja Física,4
+46,06/05/25,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$52,44",2,CLI1071,CURITIBA,Cartão de Débito,Loja Física,2
+218,05/06/25,Dom Casmurro,Machado de Assis,Clássico,"R$45,72",2,CLI1062,curitiba ,Cartão de Débito,Marketplace,cinco
+126,23-09-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$ 50,18",1,CLI1077,Curitiba,Boleto,Loja Física,3
+102,18-02-2025,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$75,15",3,CLI1173,belo horizonte,Cartão de Débito,Marketplace,
+510,21-07-2025,Clean Code,Robert C. Martin,TECNICO,"R$80,59",5,CLI1077,Salvador,Cartão de Crédito,Loja Física,5
+160,30/10/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$40,94",1,CLI1160,Curitiba,Cartão de Débito,Telefone,3
+240,09/08/2025,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$ 43,56",5,CLI1155,Rio de Janeiro,Cartão de Débito,Loja Física,3
+219,05/10/2025,Duna,Frank Herbert,Ficção Científica,20.35,-4,CLI1162,Curitiba,Cartão de Crédito,Marketplace,5
+313,03/09/25,Dom Casmurro,Machado de Assis,clássico,"R$ 76,68",1,CLI1053,Salvador,,Loja Física,
+507,22-04-2025,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 71,51",2,CLI1027,osasco,Boleto,Loja Física,3
+121,28/02/25,Mindset,Carol Dweck,nao ficção,"R$ 41,91",2,CLI1188,RJ,Boleto,Telefone,1
+270,2025-10-08,A MENINA QUE ROUBAVA LIVROS,Markus Zusak,FICÇÃO,"R$69,14",2,CLI1053,Curitiba,Cartão de Débito,Marketplace,
+372,28/03/25,Clean Code,Robert C. Martin,técnico,"R$61,47",1,CLI1157,RJ,Cartão de Débito,Loja Física,5
+408,31-10-2025,Dom Casmurro,Machado de Assis,Clássico,"R$49,75",1,CLI1157,Belo Horizonte,Pix,Marketplace,
+65,2025-06-14,A Revolução dos Bichos,George Orwell,CLASSICO,73.30,4,CLI1178,osasco,Boleto,Telefone,4
+304,04-12-2025,A Menina que Roubava Livros,Markus Zusak,ficção,"R$42,15",5,CLI1177,Curitiba,,Loja Física,5
+73,2026-01-17,O Hobbit,J.R.R. Tolkien,fantasia,"R$20,47",1,CLI1073,salvador,Boleto,Marketplace,
+512,09/01/2026,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,,,CLI1188,sao paulo,Pix,Telefone,
+402,2025-09-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$ 69,59",2,CLI1095,OSASCO ,Cartão de Débito,Marketplace,4
+36,2026-01-20,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$ 82,70",5,CLI1163,BH,Pix,Telefone,4
+252,2025-05-08,1984,George Orwell,Ficção,"R$32,06",2,CLI1116,CURITIBA,Cartão de Crédito,Marketplace,1
+362,27/09/2025,Sapiens,Yuval Noah Harari,Não-ficção,"R$70,66",4,CLI1145,Curitiba,Boleto,Telefone,4
+4,27/04/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$33,36",1,CLI1020,curitiba ,Boleto,Site,5
+436,26/07/25,Python Fluente,Luciano Ramalho,Técnico,,,CLI1138,BH,Boleto,Site,2
+542,2025-05-25,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$75,62",1,CLI1170, Salvador,Cartão de Débito,Loja Física,2
+165,04/07/25,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,46.55,3,CLI1127,RJ,Cartão de Débito,Site,
+541,17-12-2025,Sapiens,Yuval Noah Harari,nao ficção,36.15,2,CLI1154,belo horizonte,Cartão de Débito,Loja Física,5
+327,28-07-2025,Sapiens,Yuval Noah Harari,nao ficção,"R$ 84,98",1,CLI1027,Curitiba,,Site,
+574,2025-12-30,Sapiens,Yuval Noah Harari,nao-ficção,71.92,2,CLI1049,Belo Horizonte,Cartão de Crédito,Marketplace,5
+412,2025-04-17,O Poder do Hábito,Charles Duhigg,nao-ficção,"R$88,07",4,CLI1110,rio de janeiro,Cartão de Débito,Marketplace,cinco
+595,26/10/25,Duna,Frank Herbert,ficção científica,53.06,4,CLI1053,BH,Boleto,Loja Física,1
+277,22/03/2025,Clean Code,Robert C. Martin,TECNICO,46.84,-1,CLI1120, Salvador,Cartão de Débito,Loja Física,
+106,2025-05-02,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,22.96,3,CLI1156,Curitiba,Pix,Telefone,
+314,17/03/25,Mindset,Carol Dweck,nao-ficção,"R$63,97",1,CLI1042,Curitiba,Pix,Loja Física,1
+496,09/06/2025,Clean Code,Robert C. Martin,Técnico,"R$ 66,19",2,CLI1021,belo horizonte,Cartão de Crédito,Marketplace,cinco
+170,2025-12-24,O Alquimista,Paulo Coelho,FICÇÃO,"R$57,40",-2,CLI1045,CURITIBA,Cartão de Crédito,Site,4
+118,2025-06-17,Dom Casmurro,Machado de Assis,Clássico,58.08,3,CLI1078,BH,Cartão de Débito,Telefone,5
+13,11/01/2025,Clean Code,Robert C. Martin,técnico,"R$28,37",2,CLI1141,BH,Boleto,Loja Física,cinco
+148,2025-09-21,A Menina que Roubava Livros,Markus Zusak,ficção,32.18,4,CLI1022,CURITIBA,Cartão de Débito,Site,5
+450,26/02/25,Clean Code,Robert C. Martin,TECNICO,67.28,3,CLI1058,Belo Horizonte,Cartão de Crédito,Loja Física,5
+267,24/11/2025,1984,George Orwell,ficção,"R$28,52",1,CLI1197,Rio de Janeiro,,Site,5
+21,20/04/2025,Clean Code,Robert C. Martin,técnico,63.38,1,CLI1067,São Paulo,Boleto,Marketplace,
+369,2025-12-11,Clean Code,Robert C. Martin,Técnico,"R$42,78",2,CLI1114,CURITIBA,,Site,4
+360,2025-04-24,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$56,71",2,CLI1183,BH,Cartão de Crédito,Site,cinco
+192,2025-12-22,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,36.60,1,CLI1130,RJ,Cartão de Débito,Telefone,3
+169,23/11/2025,Duna,Frank Herbert,Ficção Científica,55.30,3,CLI1123,Rio de Janeiro,Cartão de Débito,Site,cinco
+540,01/03/25,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$ 38,65",4,CLI1159,curitiba ,Pix,Telefone,
+319,30-04-2025,Python Fluente,Luciano Ramalho,Técnico,"R$49,68",2,CLI1072, Salvador,,Telefone,2
+570,22/07/25,O Hobbit,J.R.R. Tolkien,Fantasia,,1,CLI1035,curitiba ,,Marketplace,2
+105,2026-01-28,Dom Casmurro,Machado de Assis,CLASSICO,"R$73,86",1,CLI1033,Osasco,,Telefone,cinco
+97,28/06/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 57,04",2,CLI1186,Rio de Janeiro,Boleto,Loja Física,5
+78,04/06/2025,Clean Code,Robert C. Martin,TECNICO,24.33,5,CLI1029,Curitiba,Boleto,Site,4
+413,19/02/2025,Duna,Frank Herbert,ficção científica,"R$27,90",5,CLI1045, Salvador,Pix,Telefone,
+152,2025-10-16,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$56,87",3,CLI1015, São Paulo,,Loja Física,2
+350,20/01/2026,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$ 68,69",1,CLI1014,belo horizonte,Pix,Telefone,3
+411,27-07-2025,O Hobbit,J.R.R. Tolkien,fantasia,62.21,1,CLI1083,RJ,,Site,2
+569,04-09-2025,O Alquimista,Paulo Coelho,FICÇÃO,"R$ 65,61",-1,CLI1153,S. Paulo,Pix,Telefone,5
+31,14/07/25,Clean Code,Robert C. Martin,técnico,"R$ 58,71",2,CLI1157,BH,,Marketplace,3
+543,03/07/2025,Dom Casmurro,Machado de Assis,clássico,36.33,1,CLI1091,belo horizonte,Boleto,Loja Física,5
+473,2025-07-29,O Hobbit,J.R.R. Tolkien,Fantasia,"R$85,22",4,CLI1106,curitiba ,Boleto,Telefone,5
+379,21/10/25,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 87,14",2,CLI1109,salvador,Pix,Marketplace,3
+122,09/09/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$34,92",2,CLI1031,OSASCO ,Boleto,Site,4
+159,2026-01-10,A Revolução dos Bichos,George Orwell,Clássico,"R$ 29,71",2,CLI1081,rio de janeiro,,Marketplace,cinco
+552,2026-01-23,1984,George Orwell,FICÇÃO,34.86,2,CLI1005,CURITIBA,Cartão de Crédito,Marketplace,3
+316,02/11/25,1984,George Orwell,FICÇÃO,"R$ 31,64",3,CLI1017,CURITIBA,Boleto,Telefone,cinco
+11,07/06/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$54,10",1,CLI1014,Curitiba,Boleto,Site,4
+325,2025-12-12,Python Fluente,Luciano Ramalho,Técnico,"R$ 22,25",2,CLI1092,curitiba ,Boleto,Site,1
+427,2025-08-26,Mindset,Carol Dweck,Não-ficção,"R$64,86",1,CLI1121,salvador,Pix,Telefone,4
+301,12/10/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$86,92",1,CLI1031, Salvador,Cartão de Crédito,Site,3
+258,01/06/2025,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$67,55",1,CLI1107,BH,Cartão de Débito,Telefone,5
+120,18-10-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$24,61",3,CLI1154,Belo Horizonte,Boleto,Telefone,1
+262,19/03/25,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$40,78",1,CLI1051,salvador,Pix,Telefone,3
+497,23/12/25,Clean Code,Robert C. Martin,TECNICO,80.34,4,CLI1150,S. Paulo,Cartão de Crédito,Marketplace,
+230,2026-02-03,Clean Code,Robert C. Martin,Técnico,"R$ 21,72",-2,CLI1014,belo horizonte,Cartão de Débito,Marketplace,5
+300,2025-10-01,Python Fluente,Luciano Ramalho,técnico,"R$77,45",1,CLI1034,belo horizonte,Cartão de Débito,Marketplace,4
+240,09/08/2025,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$ 43,56",5,CLI1155,Rio de Janeiro,Cartão de Débito,Loja Física,3
+462,15/04/25,Dom Casmurro,Machado de Assis,clássico,,1,CLI1160,sao paulo,Cartão de Crédito,Marketplace,
+172,2025-11-27,A Revolução dos Bichos,George Orwell,CLASSICO,"R$31,90",5,CLI1144,São Paulo,Cartão de Crédito,Site,5
+355,27/11/25,Duna,Frank Herbert,Ficção Científica,"R$ 54,05",3,CLI1112,Curitiba,Boleto,Site,5
+247,24/09/2025,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 47,71",3,CLI1003,S. Paulo,,Telefone,
+561,2025-01-24,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$47,01",4,CLI1188,CURITIBA,Pix,Site,
+432,28/08/25,O Poder do Hábito,Charles Duhigg,nao-ficção,"R$82,62",1,CLI1163, Salvador,Cartão de Débito,Marketplace,2
+90,2025-05-20,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$62,53",-2,CLI1086,CURITIBA,Pix,Site,5
+171,05/05/2025,A Menina que Roubava Livros,Markus Zusak,ficcao,25.43,4,CLI1076,osasco,Cartão de Crédito,Site,4
+521,2025-08-28,O Alquimista,Paulo Coelho,FICÇÃO,31.79,5,CLI1022,Curitiba,Pix,Telefone,3
+199,2025-12-31,O Poder do Hábito,Charles Duhigg,nao-ficção,"R$ 69,00",1,CLI1063,SÃO PAULO,Cartão de Débito,Telefone,5
+324,02/11/25,MINDSET,Carol Dweck,nao ficção,"R$62,88",2,CLI1198,S. Paulo,Boleto,Telefone,1
+167,2025-09-08,O Poder do Hábito,Charles Duhigg,nao ficção,,3,CLI1117,Curitiba,Boleto,Marketplace,
+308,2025-09-15,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$ 29,27",1,CLI1169,CURITIBA,Boleto,Loja Física,1
+49,17-01-2026,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$ 53,03",3,CLI1084, Salvador,Pix,Telefone,
+488,2025-07-22,O Alquimista,Paulo Coelho,Ficção,"R$47,65",1,CLI1177,salvador,,Site,4
+464,06-06-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$51,96",1,CLI1066,osasco,Boleto,Telefone,3
+292,2025-10-21,O Alquimista,Paulo Coelho,Ficção,,2,CLI1091,RJ,Cartão de Crédito,Marketplace,
+275,07/09/2025,1984,George Orwell,FICÇÃO,62.70,1,CLI1105,curitiba ,Cartão de Débito,Site,2
+425,2025-03-31,Dom Casmurro,Machado de Assis,CLASSICO,"R$71,63",5,CLI1200,Curitiba,Boleto,Telefone,5
+534,2025-08-19,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$61,00",5,CLI1067,salvador,Pix,Loja Física,cinco
+419,2025-08-06,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$85,02",1,CLI1115,BH,Cartão de Débito,Marketplace,
+155,28/01/26,Python Fluente,Luciano Ramalho,Técnico,"R$40,00",1,CLI1095,S. Paulo,Cartão de Débito,Telefone,4
+565,31/01/2025,1984,George Orwell,ficção,"R$ 41,38",4,CLI1083,Osasco,Boleto,Site,cinco
+44,04/11/25,Mindset,Carol Dweck,nao-ficção,"R$ 27,03",2,CLI1144, Salvador,Cartão de Crédito,Marketplace,2
+477,03/08/2025,Clean Code,Robert C. Martin,Técnico,"R$44,92",1,CLI1012,BH,Pix,Marketplace,5
+392,2025-03-17,Python Fluente,Luciano Ramalho,TECNICO,"R$63,90",2,CLI1167,curitiba ,Pix,Site,1
+189,10/08/25,O Poder do Hábito,Charles Duhigg,nao ficção,63.98,1,CLI1007,Belo Horizonte,,Loja Física,4
+383,2025-07-11,Dom Casmurro,Machado de Assis,Clássico,"R$ 55,06",5,CLI1099,salvador,Cartão de Débito,Telefone,3
+333,21-07-2025,1984,George Orwell,ficcao,"R$ 53,38",1,CLI1117, São Paulo,Cartão de Crédito,Telefone,3
+467,29/01/2026,1984,George Orwell,Ficção,,4,CLI1117,curitiba ,Pix,Loja Física,3
+544,2025-06-24,Dom Casmurro,Machado de Assis,Clássico,"R$59,24",5,CLI1196,Curitiba,Cartão de Crédito,Marketplace,5
+34,2025-12-19,Sapiens,Yuval Noah Harari,nao ficção,"R$54,51",2,CLI1192, Salvador,Cartão de Crédito,Telefone,1
+398,04/02/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,33.98,2,CLI1076,Rio de Janeiro,,Marketplace,5
+235,15/10/25,Duna,Frank Herbert,ficção científica,"R$65,34",1,CLI1091,BH,Boleto,Loja Física,cinco
+109,2025-08-01,O Hobbit,J.R.R. Tolkien,Fantasia,"R$ 77,07",3,CLI1101,Belo Horizonte,,Marketplace,1
+424,23-05-2025,Duna,Frank Herbert,ficção científica,"R$ 53,83",1,CLI1033,Curitiba,,Marketplace,5
+7,2025-11-26,Mindset,Carol Dweck,nao-ficção,,4,CLI1036,salvador,Pix,Loja Física,
+524,2025-02-27,A Revolução dos Bichos,George Orwell,clássico,"R$ 89,12",5,CLI1031,S. Paulo,Pix,Site,3
+578,04/08/25,A Revolução dos Bichos,George Orwell,Clássico,"R$ 81,77",2,CLI1114,OSASCO ,Pix,Site,
+206,2025-12-13,Dom Casmurro,Machado de Assis,clássico,"R$29,50",1,CLI1017,osasco,,Site,3
+404,24/08/2025,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$ 89,39",2,CLI1182, São Paulo,,Site,4
+89,2025-06-29,Mindset,Carol Dweck,nao-ficção,"R$65,87",2,CLI1094,Curitiba,Cartão de Crédito,Marketplace,
+387,14/09/25,O Alquimista,Paulo Coelho,ficção,52.35,5,CLI1046, Salvador,,Loja Física,2
+183,05-02-2025,Duna,Frank Herbert,Ficção Científica,"R$50,59",2,CLI1172,BH,Cartão de Débito,Loja Física,4
+55,29-08-2025,1984,George Orwell,ficção,20.09,5,CLI1008,Curitiba,Boleto,Marketplace,5
+110,12/03/25,Sapiens,Yuval Noah Harari,Não-ficção,"R$ 78,64",3,CLI1073,SÃO PAULO,Cartão de Débito,Loja Física,1
+119,23/11/2025,O Alquimista,Paulo Coelho,ficcao,"R$39,12",1,CLI1093,salvador,,Loja Física,4
+62,10/10/25,Dom Casmurro,Machado de Assis,Clássico,"R$69,58",2,CLI1023, São Paulo,Boleto,Site,4
+220,31/01/2025,Duna,Frank Herbert,Ficção Científica,"R$34,26",2,CLI1182,salvador,Pix,Site,3
+203,04-06-2025,A Revolução dos Bichos,George Orwell,clássico,"R$34,06",1,CLI1070,Belo Horizonte,Cartão de Crédito,Marketplace,3
+278,01/05/2025,Clean Code,Robert C. Martin,TECNICO,35.49,4,CLI1117,Osasco,Cartão de Débito,Telefone,2
+508,2025-08-05,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$68,87",1,CLI1174,S. Paulo,Boleto,Marketplace,
+320,2025-12-19,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$56,28",4,CLI1104, São Paulo,Pix,Site,5
+528,11/05/2025,A Menina que Roubava Livros,Markus Zusak,Ficção,"R$ 58,20",4,CLI1061,Osasco,Cartão de Débito,Site,3
+321,2025-07-31,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$62,73",4,CLI1200,curitiba ,,Telefone,
+288,2025-12-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$45,01",5,CLI1057,Osasco,,Telefone,
+166,09-01-2025,Sapiens,Yuval Noah Harari,nao ficção,23.10,2,CLI1141,osasco,,Telefone,5
+483,2026-01-18,Sapiens,Yuval Noah Harari,nao-ficção,"R$66,84",1,CLI1148,Curitiba,Pix,Marketplace,5
+56,2025-10-06,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$ 61,19",2,CLI1165,RJ,Boleto,Marketplace,4
+263,2025-01-30,1984,George Orwell,FICÇÃO,"R$ 64,07",1,CLI1115,S. Paulo,Pix,Loja Física,1
+213,2025-03-25,O Alquimista,Paulo Coelho,ficção,"R$28,26",1,CLI1088,OSASCO ,,Marketplace,
+519,23-07-2025,A Revolução dos Bichos,George Orwell,clássico,"R$29,22",3,CLI1182,São Paulo,Cartão de Débito,Telefone,4
+395,25/02/25,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$56,63",2,CLI1186,OSASCO ,,Site,cinco
+371,17/05/2025,Sapiens,Yuval Noah Harari,nao-ficção,59.18,2,CLI1082,belo horizonte,,Site,4
+86,06/11/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$ 89,52",2,CLI1025,salvador,Cartão de Crédito,Loja Física,4
+341,23/07/2025,O Alquimista,Paulo Coelho,FICÇÃO,85.73,1,CLI1024,rio de janeiro,Cartão de Crédito,Telefone,2
+50,14/01/2026,Duna,Frank Herbert,Ficção Científica,"R$ 71,90",1,CLI1070,RJ,,Marketplace,
+113,27/09/25,Mindset,Carol Dweck,Não-ficção,"R$ 56,54",3,CLI1129,Belo Horizonte,,Site,
+597,08/07/2025,O Alquimista,Paulo Coelho,FICÇÃO,"R$ 49,73",5,CLI1081,BH,Pix,Telefone,
+343,2025-08-28,O Hobbit,J.R.R. Tolkien,Fantasia,"R$66,35",3,CLI1069,Rio de Janeiro,,Telefone,
+349,08/01/2026,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,39.65,1,CLI1059,sao paulo,Cartão de Crédito,Loja Física,1
+99,08-06-2025,A Revolução dos Bichos,George Orwell,clássico,"R$ 61,30",3,CLI1115,salvador,Cartão de Crédito,Site,
+173,24-05-2025,PYTHON FLUENTE,Luciano Ramalho,técnico,"R$ 23,16",1,CLI1144,curitiba ,Cartão de Crédito,Loja Física,
+554,24-09-2025,Clean Code,Robert C. Martin,técnico,"R$ 40,84",1,CLI1026,rio de janeiro,Pix,Loja Física,4
+15,09/01/26,Sapiens,Yuval Noah Harari,nao ficção,"R$44,70",4,CLI1172,São Paulo,Cartão de Crédito,Site,1
+216,19-01-2025,O Alquimista,Paulo Coelho,ficcao,"R$84,32",1,CLI1182,belo horizonte,Cartão de Débito,Loja Física,
+9,11-10-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,46.83,5,CLI1174,BH,Cartão de Crédito,Marketplace,1
+47,13/05/2025,Clean Code,Robert C. Martin,técnico,"R$ 32,63",2,CLI1071,S. Paulo,,Marketplace,5
+103,08-06-2025,Python Fluente,Luciano Ramalho,técnico,"R$25,61",1,CLI1033,Curitiba,,Site,4
+123,2025-05-29,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 44,22",1,CLI1040,salvador,Boleto,Marketplace,5
+594,2025-11-27,A Revolução dos Bichos,George Orwell,Clássico,31.62,4,CLI1095, Salvador,Cartão de Débito,Telefone,
+128,25/11/2025,Python Fluente,Luciano Ramalho,TECNICO,"R$22,78",1,CLI1067,curitiba ,Boleto,Telefone,cinco
+104,2025-06-08,Clean Code,Robert C. Martin,TECNICO,"R$ 66,83",-3,CLI1054,Rio de Janeiro,Pix,Telefone,3
+393,02/04/25,O Hobbit,J.R.R. Tolkien,fantasia,84.33,1,CLI1172,curitiba ,Pix,Loja Física,3
+194,2025-09-09,O Alquimista,Paulo Coelho,ficção,"R$ 76,97",5,CLI1181,Belo Horizonte,Cartão de Débito,Telefone,4
+591,18-04-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$75,02",1,CLI1116,Rio De Janeiro,Boleto,Marketplace,5
+434,29/01/26,Python Fluente,Luciano Ramalho,Técnico,"R$ 65,08",1,CLI1055,Rio De Janeiro,,Site,4
+3,06/11/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 46,49",3,CLI1011,Osasco,Cartão de Débito,Site,5
+307,2025-10-10,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,,,CLI1139, São Paulo,,Telefone,5
+27,20-01-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$75,02",1,CLI1056,RJ,Boleto,Telefone,
+228,14/11/25,Clean Code,Robert C. Martin,técnico,39.49,1,CLI1062,rio de janeiro,Pix,Telefone,cinco
+72,05-09-2025,O Poder do Hábito,Charles Duhigg,nao ficção,"R$ 79,07",2,CLI1060,salvador,Cartão de Débito,Marketplace,2
+354,13/09/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$45,90",1,CLI1175,salvador,,Marketplace,2
+200,19/01/26,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$ 64,25",1,CLI1177,belo horizonte,Pix,Telefone,5
+53,02/08/25,1984,George Orwell,Ficção,89.47,1,CLI1152,RJ,,Loja Física,cinco
+338,07-11-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$48,72",3,CLI1147,osasco,,Loja Física,4
+367,06/01/2026,A Menina que Roubava Livros,Markus Zusak,ficcao,59.73,2,CLI1123,Osasco,Boleto,Telefone,5
+340,06/11/25,1984,George Orwell,FICÇÃO,"R$ 42,08",2,CLI1069,Osasco,Cartão de Débito,Marketplace,4
+329,23/04/2025,O Hobbit,J.R.R. Tolkien,Fantasia,"R$ 37,95",4,CLI1080,S. Paulo,Cartão de Débito,Marketplace,4
+268,31/08/25,O Alquimista,Paulo Coelho,ficcao,"R$51,00",1,CLI1052,São Paulo,Cartão de Crédito,Marketplace,3
+416,2025-10-14,O Hobbit,J.R.R. Tolkien,Fantasia,"R$45,75",-1,CLI1028,RJ,Pix,Site,5
+326,13-01-2026,O Poder do Hábito,Charles Duhigg,nao ficção,"R$48,28",2,CLI1023,OSASCO ,,Marketplace,2
+571,06-12-2025,"PAI RICO, PAI POBRE",Robert Kiyosaki,NÃO-FICÇÃO,"R$64,36",5,CLI1087,OSASCO ,Boleto,Telefone,5
+25,2025-01-22,Python Fluente,Luciano Ramalho,técnico,"R$60,68",1,CLI1093,Rio de Janeiro,Cartão de Crédito,Marketplace,5
+357,15/05/25,O Hobbit,J.R.R. Tolkien,Fantasia,"R$24,72",1,CLI1093,CURITIBA,Cartão de Débito,Site,
+227,21/10/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,85.86,1,CLI1185,Osasco,Cartão de Débito,Telefone,4
+442,24/02/2025,O Hobbit,J.R.R. Tolkien,FANTASIA,31.85,1,CLI1127,S. Paulo,,Loja Física,2
+273,25/06/25,Clean Code,Robert C. Martin,técnico,81.39,1,CLI1029,BH,Cartão de Débito,Telefone,3
+500,2025-06-04,Mindset,Carol Dweck,nao ficção,"R$ 34,58",1,CLI1076,curitiba ,Cartão de Débito,Marketplace,
+18,01-06-2025,A Revolução dos Bichos,George Orwell,CLASSICO,"R$86,91",5,CLI1014,osasco,,Site,4
+545,22/01/2026,Mindset,Carol Dweck,Não-ficção,"R$ 84,76",5,CLI1027,Salvador,,Site,2
+111,2025-05-28,Dom Casmurro,Machado de Assis,Clássico,"R$78,35",4,CLI1077,SÃO PAULO,Cartão de Crédito,Site,4
+92,20/05/25,Dom Casmurro,Machado de Assis,Clássico,"R$ 72,71",1,CLI1169,sao paulo,Cartão de Débito,Telefone,
+533,2025-01-09,Duna,Frank Herbert,ficção científica,"R$ 37,74",1,CLI1189,curitiba ,Cartão de Débito,Loja Física,2
+226,2025-02-08,Clean Code,Robert C. Martin,TECNICO,"R$25,78",2,CLI1016, Salvador,Boleto,Telefone,1
+558,2025-06-05,A Menina que Roubava Livros,Markus Zusak,ficção,28.14,2,CLI1124, São Paulo,Cartão de Crédito,Loja Física,5
+140,24-08-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,"R$ 56,68",3,CLI1087,OSASCO ,,Marketplace,
+347,03-05-2025,Duna,Frank Herbert,ficção científica,,1,CLI1195,salvador,,Marketplace,
+489,23-05-2025,Clean Code,Robert C. Martin,Técnico,"R$36,20",4,CLI1151,Rio De Janeiro,Pix,Telefone,cinco
+225,2025-02-22,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$79,72",2,CLI1031,Rio de Janeiro,Cartão de Crédito,Site,3
+482,10/05/2025,O Alquimista,Paulo Coelho,Ficção,"R$75,41",1,CLI1016,Rio de Janeiro,Pix,Site,1
+40,08-08-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$ 59,41",1,CLI1118,S. Paulo,Boleto,Site,3
+87,07/12/2025,Clean Code,Robert C. Martin,técnico,"R$ 70,97",3,CLI1095,belo horizonte,Boleto,Telefone,5
+201,01/10/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$64,34",3,CLI1055,Salvador,Cartão de Débito,Loja Física,4
+380,26-09-2025,1984,George Orwell,ficção,,2,CLI1110,CURITIBA,Boleto,Loja Física,3
+274,23/12/25,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$81,93",1,CLI1040,belo horizonte,Cartão de Crédito,Telefone,1
+64,17/09/25,Duna,Frank Herbert,ficção científica,73.99,4,CLI1000,Rio de Janeiro,Pix,Marketplace,5
+151,2025-10-09,1984,George Orwell,ficcao,"R$72,24",3,CLI1193,Belo Horizonte,,Loja Física,
+91,21-08-2025,O Poder do Hábito,Charles Duhigg,Não-ficção,"R$26,32",2,CLI1040,sao paulo,Pix,Marketplace,5
+52,02/09/2025,A Revolução dos Bichos,George Orwell,clássico,"R$32,81",1,CLI1016,belo horizonte,Cartão de Débito,Telefone,2
+311,12-07-2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,61.04,1,CLI1132,salvador,Cartão de Débito,Marketplace,4
+10,02-06-2025,A Revolução dos Bichos,George Orwell,CLASSICO,,1,CLI1155,SÃO PAULO,Boleto,Loja Física,
+430,06/01/2025,Duna,Frank Herbert,Ficção Científica,,,CLI1017, Salvador,Cartão de Crédito,Telefone,1
+88,30-07-2025,O Poder do Hábito,Charles Duhigg,nao-ficção,58.85,3,CLI1170,SÃO PAULO,Cartão de Débito,Site,5
+83,15/01/26,O Alquimista,Paulo Coelho,FICÇÃO,21.00,2,CLI1134,Osasco,Cartão de Crédito,Site,4
+431,30/01/2025,Clean Code,Robert C. Martin,técnico,"R$33,42",1,CLI1168,RJ,Boleto,Site,cinco
+296,2026-01-31,Sapiens,Yuval Noah Harari,Não-ficção,"R$86,27",1,CLI1136,OSASCO ,Cartão de Crédito,Site,
+577,07-08-2025,Duna,Frank Herbert,FICCAO CIENTIFICA,,-5,CLI1082, Salvador,Cartão de Débito,Telefone,1
+242,16/04/25,Dom Casmurro,Machado de Assis,CLASSICO,61.92,2,CLI1163,OSASCO ,Pix,Site,3
+585,2025-11-30,Sapiens,Yuval Noah Harari,Não-ficção,"R$28,84",4,CLI1079,Rio de Janeiro,,Loja Física,5
+225,2025-02-22,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$79,72",2,CLI1031,Rio de Janeiro,Cartão de Crédito,Site,3
+366,24-08-2025,Sapiens,Yuval Noah Harari,NÃO-FICÇÃO,"R$ 84,24",1,CLI1039,Osasco,Boleto,Marketplace,5
+517,2026-02-05,O Hobbit,J.R.R. Tolkien,Fantasia,"R$ 35,61",2,CLI1073,salvador,Cartão de Débito,Telefone,5
+547,10/07/25,O Poder do Hábito,Charles Duhigg,nao ficção,"R$ 43,79",1,CLI1092,sao paulo,Boleto,Loja Física,4
+523,19/01/25,A Revolução dos Bichos,George Orwell,Clássico,"R$33,12",1,CLI1066,Rio De Janeiro,Boleto,Telefone,
+43,25/02/25,1984,George Orwell,Ficção,"R$ 74,35",1,CLI1006,CURITIBA,Pix,Telefone,cinco
+35,26/08/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$37,34",1,CLI1143,Belo Horizonte,,Marketplace,
+498,27-01-2026,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 67,16",3,CLI1042,Belo Horizonte,,Marketplace,5
+249,19-06-2025,1984,George Orwell,ficção,"R$63,18",4,CLI1012,osasco,Cartão de Débito,Marketplace,4
+238,31/07/2025,A Menina que Roubava Livros,Markus Zusak,Ficção,"R$46,92",4,CLI1096,São Paulo,Pix,Telefone,
+499,21/10/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$ 40,01",1,CLI1057, São Paulo,,Site,4
+344,2025-11-24,1984,George Orwell,ficcao,64.07,4,CLI1079,CURITIBA,Pix,Telefone,
+168,2025-12-09,1984,George Orwell,Ficção,"R$ 56,58",1,CLI1195,CURITIBA,Cartão de Crédito,Telefone,1
+70,2025-07-15,1984,George Orwell,ficção,"R$31,80",1,CLI1174,Rio De Janeiro,Boleto,Telefone,cinco
+557,18/01/26,Duna,Frank Herbert,Ficção Científica,68.51,5,CLI1143,CURITIBA,Pix,Site,3
+364,2025-07-31,Python Fluente,Luciano Ramalho,TECNICO,,,CLI1185,osasco,Pix,Loja Física,4
+583,14-11-2025,Mindset,Carol Dweck,nao ficção,"R$ 52,39",4,CLI1086,S. Paulo,Cartão de Crédito,Telefone,2
+129,07/02/25,A Menina que Roubava Livros,Markus Zusak,ficcao,37.04,4,CLI1040,salvador,Cartão de Débito,Telefone,1
+6,02/02/26,Python Fluente,Luciano Ramalho,TECNICO,"R$ 35,27",3,CLI1058, Salvador,Cartão de Crédito,Marketplace,1
+20,2025-04-15,Mindset,Carol Dweck,Não-ficção,"R$ 49,25",3,CLI1061,Curitiba,Pix,Telefone,5
+593,17/06/25,O Alquimista,Paulo Coelho,ficção,"R$ 79,71",2,CLI1013,CURITIBA,Pix,Loja Física,4
+100,14-01-2026,O Hobbit,J.R.R. Tolkien,FANTASIA,,5,CLI1115, São Paulo,,Loja Física,1
+439,31-10-2025,A Revolução dos Bichos,George Orwell,Clássico,"R$22,40",1,CLI1125,Salvador,Cartão de Débito,Site,4
+205,05/08/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$68,59",1,CLI1122,Belo Horizonte,Cartão de Crédito,Loja Física,3
+382,2025-01-14,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,"R$ 74,44",1,CLI1157,salvador,Pix,Loja Física,cinco
+579,18/06/25,Mindset,Carol Dweck,nao ficção,"R$ 86,94",2,CLI1016,sao paulo,Cartão de Crédito,Site,5
+196,22-02-2025,Clean Code,Robert C. Martin,TECNICO,"R$50,80",2,CLI1076,Curitiba,Cartão de Crédito,Telefone,4
+505,29/01/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,79.58,5,CLI1080,Curitiba,,Marketplace,2
+384,03-02-2025,O Poder do Hábito,Charles Duhigg,nao ficção,"R$35,48",2,CLI1112,SÃO PAULO,,Telefone,3
+346,04/01/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 73,51",2,CLI1095,belo horizonte,Boleto,Telefone,
+395,25/02/25,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$56,63",2,CLI1186,OSASCO ,,Site,cinco
+328,16/10/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$37,41",5,CLI1197,OSASCO ,Boleto,Marketplace,
+38,27/10/25,A REVOLUÇÃO DOS BICHOS,George Orwell,Clássico,78.20,4,CLI1195,Belo Horizonte,,Telefone,1
+14,2025-09-06,Sapiens,Yuval Noah Harari,NÃO-FICÇÃO,"R$24,86",2,CLI1138,São Paulo,Boleto,Telefone,4
+237,2025-12-10,Sapiens,Yuval Noah Harari,nao-ficção,"R$ 64,43",1,CLI1114,osasco,Cartão de Crédito,Marketplace,5
+23,21/11/2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,62.24,3,CLI1129,RJ,Cartão de Débito,Marketplace,5
+260,21-06-2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$73,30",1,CLI1056,OSASCO ,Pix,Loja Física,2
+600,2025-09-20,Clean Code,Robert C. Martin,TECNICO,,1,CLI1101,belo horizonte,Boleto,Loja Física,3
+130,08-03-2025,1984,George Orwell,FICÇÃO,"R$ 71,29",3,CLI1131,OSASCO ,,Site,5
+85,2025-02-11,O Poder do Hábito,Charles Duhigg,nao ficção,"R$69,77",5,CLI1155,Salvador,Boleto,Site,5
+231,2025-04-23,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,,,CLI1099,RJ,Pix,Loja Física,cinco
+420,07/10/25,Mindset,Carol Dweck,nao-ficção,"R$ 69,75",2,CLI1093,BH,Cartão de Crédito,Site,cinco
+334,15-05-2025,Sapiens,Yuval Noah Harari,Não-ficção,,,CLI1068,BH,Cartão de Débito,Marketplace,4
+108,22-09-2025,1984,George Orwell,ficcao,,1,CLI1072,Osasco,Cartão de Crédito,Loja Física,2
+79,08/01/26,Dom Casmurro,Machado de Assis,clássico,"R$ 51,66",4,CLI1106,rio de janeiro,Cartão de Crédito,Telefone,3
+16,23/05/2025,Dom Casmurro,Machado de Assis,Clássico,"R$57,44",1,CLI1063,rio de janeiro,Cartão de Crédito,Telefone,
+125,2025-06-12,A Revolução dos Bichos,George Orwell,clássico,"R$77,53",1,CLI1115,curitiba ,Cartão de Débito,Marketplace,2
+422,01-10-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,"R$41,77",1,CLI1120, São Paulo,Cartão de Débito,Telefone,1
+506,20/10/25,Clean Code,Robert C. Martin,Técnico,"R$ 47,68",1,CLI1030, Salvador,,Marketplace,
+223,28/07/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$ 27,30",5,CLI1137,Curitiba,Pix,Loja Física,2
+69,22/12/2025,Sapiens,Yuval Noah Harari,nao ficção,88.38,1,CLI1007,Salvador,Cartão de Crédito,Marketplace,5
+587,03/08/2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$43,08",3,CLI1041,BH,Cartão de Crédito,Telefone,5
+281,24/01/2025,O Alquimista,Paulo Coelho,FICÇÃO,"R$ 58,24",3,CLI1126,osasco,Boleto,Telefone,3
+162,10-03-2025,Duna,Frank Herbert,Ficção Científica,"R$59,27",4,CLI1062,Rio De Janeiro,Pix,Loja Física,4
+246,11-08-2025,1984,George Orwell,ficção,"R$22,89",1,CLI1160,rio de janeiro,Boleto,Marketplace,4
+45,2025-07-05,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$77,46",1,CLI1181,Osasco,Boleto,Telefone,
+403,14-09-2025,Clean Code,Robert C. Martin,Técnico,"R$ 50,96",1,CLI1048,sao paulo,Pix,Telefone,3
+98,16-10-2025,Mindset,Carol Dweck,nao-ficção,"R$ 86,49",5,CLI1114,Rio de Janeiro,,Marketplace,cinco
+188,2025-06-25,Duna,Frank Herbert,Ficção Científica,40.92,-1,CLI1173,belo horizonte,Boleto,Loja Física,2
+394,24/01/26,O Alquimista,Paulo Coelho,FICÇÃO,"R$45,70",4,CLI1140,SÃO PAULO,Cartão de Crédito,Marketplace,4
+469,13-11-2025,Python Fluente,Luciano Ramalho,TECNICO,"R$58,47",-2,CLI1114,sao paulo,Pix,Site,4
+563,28/12/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,39.15,2,CLI1113,Curitiba,Cartão de Crédito,Marketplace,cinco
+184,01-10-2025,Duna,Frank Herbert,Ficção Científica,"R$51,33",5,CLI1177,belo horizonte,Cartão de Débito,Site,
+256,04-01-2025,Clean Code,Robert C. Martin,Técnico,52.57,4,CLI1169,belo horizonte,Pix,Marketplace,
+426,21/01/26,Clean Code,Robert C. Martin,TECNICO,"R$ 85,28",1,CLI1197,sao paulo,Cartão de Débito,Loja Física,4
+180,07/05/25,A Menina que Roubava Livros,Markus Zusak,ficcao,74.69,3,CLI1152,belo horizonte,,Loja Física,
+576,2025-03-07,Mindset,Carol Dweck,nao-ficção,"R$ 24,48",1,CLI1145, Salvador,Boleto,Marketplace,5
+305,04/07/25,1984,George Orwell,ficção,"R$74,90",4,CLI1173,SÃO PAULO,Pix,Telefone,3
+356,08-09-2025,Python Fluente,Luciano Ramalho,TECNICO,"R$ 50,53",2,CLI1145,S. Paulo,Boleto,Marketplace,4
+468,22-01-2026,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$40,59",2,CLI1170,OSASCO ,Boleto,Telefone,cinco
+295,30/01/26,Dom Casmurro,Machado de Assis,CLASSICO,"R$70,58",1,CLI1131,belo horizonte,,Telefone,5
+94,09-08-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$42,87",1,CLI1033,RJ,Cartão de Débito,Loja Física,3
+41,11-02-2025,Clean Code,Robert C. Martin,técnico,"R$ 72,54",4,CLI1004,osasco,,Site,
+474,05/06/2025,A Menina que Roubava Livros,Markus Zusak,Ficção,"R$ 77,50",2,CLI1143,curitiba ,Cartão de Débito,Loja Física,
+472,08/01/2026,Dom Casmurro,Machado de Assis,CLASSICO,89.38,5,CLI1186,Rio De Janeiro,Cartão de Débito,Loja Física,4
+503,12/05/2025,Dom Casmurro,Machado de Assis,clássico,"R$ 38,59",2,CLI1060,Salvador,Cartão de Débito,Loja Física,cinco
+175,11-11-2025,O Alquimista,Paulo Coelho,ficção,78.61,3,CLI1101,S. Paulo,Pix,Site,cinco
+539,2025-07-24,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,,2,CLI1131,salvador,,Telefone,
+253,01-11-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$67,58",2,CLI1045,BH,Cartão de Débito,Marketplace,
+409,24/12/25,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$59,65",1,CLI1024,Curitiba,Cartão de Débito,Marketplace,
+358,2025-10-03,Mindset,Carol Dweck,nao-ficção,42.35,1,CLI1048,OSASCO ,,Telefone,4
+457,09/07/25,O Alquimista,Paulo Coelho,ficção,81.09,4,CLI1180,belo horizonte,Cartão de Crédito,Site,
+147,2025-02-27,HARRY POTTER E A PEDRA FILOSOFAL,J.K. Rowling,Fantasia,79.47,5,CLI1041,curitiba ,Cartão de Débito,Marketplace,5
+8,12/03/2025,Duna,Frank Herbert,FICCAO CIENTIFICA,"R$ 47,86",2,CLI1126,curitiba ,Cartão de Crédito,Site,
+207,14-02-2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,63.03,5,CLI1035,Salvador,Cartão de Crédito,Telefone,2
+283,2025-08-10,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$ 57,03",1,CLI1123,Rio De Janeiro,,Loja Física,cinco
+470,17/08/25,Mindset,Carol Dweck,NÃO-FICÇÃO,"R$33,60",1,CLI1131,Curitiba,Cartão de Débito,Loja Física,2
+515,28/11/25,1984,George Orwell,ficção,"R$21,35",1,CLI1160,belo horizonte,Boleto,Site,cinco
+208,2025-12-20,1984,George Orwell,Ficção,"R$ 37,27",2,CLI1168,RJ,Pix,Loja Física,1
+564,12/06/2025,Python Fluente,Luciano Ramalho,técnico,"R$ 32,54",1,CLI1065,SÃO PAULO,Cartão de Crédito,Site,4
+163,2025-07-13,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$70,62",2,CLI1154,Osasco,Cartão de Crédito,Site,cinco
+161,2025-07-12,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,68.64,4,CLI1193,BH,,Telefone,3
+443,20/04/2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$ 42,60",1,CLI1151, Salvador,Boleto,Marketplace,1
+318,24/12/25,Mindset,Carol Dweck,nao ficção,"R$56,44",3,CLI1109,Curitiba,Boleto,Telefone,
+589,14/08/2025,Clean Code,Robert C. Martin,técnico,"R$ 22,00",1,CLI1161,São Paulo,,Marketplace,4
+134,2026-01-27,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,40.10,4,CLI1071,RJ,,Site,
+212,12/08/25,Sapiens,Yuval Noah Harari,nao ficção,"R$60,95",1,CLI1014,RJ,Boleto,Site,4
+399,23/06/25,O Poder do Hábito,Charles Duhigg,Não-ficção,78.14,2,CLI1121, Salvador,Cartão de Crédito,Loja Física,
+71,13-12-2025,A Revolução dos Bichos,George Orwell,Clássico,"R$ 82,82",5,CLI1040,OSASCO ,Cartão de Crédito,Telefone,
+490,09/05/2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$ 30,22",5,CLI1127,BH,Boleto,Loja Física,
+429,20/02/25,O Hobbit,J.R.R. Tolkien,FANTASIA,"R$79,98",3,CLI1167,BH,,Telefone,5
+550,24/05/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$41,86",-3,CLI1156,OSASCO ,Boleto,Telefone,
+133,09-08-2025,Python Fluente,Luciano Ramalho,técnico,"R$ 39,90",1,CLI1067, Salvador,Pix,Telefone,3
+114,2026-01-11,O Poder do Hábito,Charles Duhigg,Não-ficção,,1,CLI1197,osasco,,Marketplace,2
+161,2025-07-12,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,68.64,4,CLI1193,BH,,Telefone,3
+214,08/08/2025,O Hobbit,J.R.R. Tolkien,Fantasia,,1,CLI1134,OSASCO ,Cartão de Crédito,Marketplace,5
+421,10/02/25,A Revolução dos Bichos,George Orwell,Clássico,"R$71,01",2,CLI1156,Salvador,Cartão de Crédito,Loja Física,
+335,20-10-2025,O Poder do Hábito,Charles Duhigg,NÃO-FICÇÃO,"R$79,70",2,CLI1147,salvador,Boleto,Site,3
+283,2025-08-10,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$ 57,03",1,CLI1123,Rio De Janeiro,,Loja Física,cinco
+12,07-11-2025,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$66,08",1,CLI1054,Curitiba,,Loja Física,4
+531,27/09/25,O Alquimista,Paulo Coelho,ficcao,"R$67,25",1,CLI1021,curitiba ,Pix,Telefone,
+378,16-01-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$37,94",4,CLI1071,Osasco,Boleto,Loja Física,
+59,29/08/2025,Python Fluente,Luciano Ramalho,TECNICO,50.41,5,CLI1104,Osasco,Pix,Marketplace,5
+466,2025-12-29,Clean Code,Robert C. Martin,técnico,,1,CLI1170,Curitiba,Pix,Marketplace,1
+592,09/04/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Não-ficção,"R$ 28,19",1,CLI1096,curitiba ,Pix,Marketplace,
+537,12/08/25,O Alquimista,Paulo Coelho,Ficção,34.55,1,CLI1048,Salvador,Cartão de Crédito,Marketplace,
+299,07-02-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,"R$ 72,82",1,CLI1128, São Paulo,Cartão de Crédito,Marketplace,5
+239,18/01/2025,Mindset,Carol Dweck,nao-ficção,"R$ 31,29",1,CLI1005, Salvador,Pix,Marketplace,5
+211,02/10/2025,A Menina que Roubava Livros,Markus Zusak,ficcao,,4,CLI1157, Salvador,Boleto,Marketplace,
+291,08-03-2025,1984,George Orwell,ficcao,"R$22,74",2,CLI1149,Rio de Janeiro,Pix,Site,3
+220,31/01/2025,Duna,Frank Herbert,Ficção Científica,"R$34,26",2,CLI1182,salvador,Pix,Site,3
+72,05-09-2025,O Poder do Hábito,Charles Duhigg,nao ficção,"R$ 79,07",2,CLI1060,salvador,Cartão de Débito,Marketplace,2
+204,16/02/2025,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$ 63,69",2,CLI1000,Rio de Janeiro,Boleto,Telefone,2
+192,2025-12-22,O Pequeno Príncipe,Antoine de Saint-Exupéry,Clássico,36.60,1,CLI1130,RJ,Cartão de Débito,Telefone,3
+28,31-01-2026,Sapiens,Yuval Noah Harari,nao-ficção,"R$ 47,79",2,CLI1089,Rio de Janeiro,,Telefone,5
+501,22/09/25,Harry Potter e a Pedra Filosofal,J.K. Rowling,FANTASIA,"R$32,54",1,CLI1147,BH,Cartão de Débito,Loja Física,3
+66,06-12-2025,Clean Code,Robert C. Martin,TECNICO,"R$83,84",4,CLI1126,salvador,Cartão de Crédito,Loja Física,3
+182,2025-05-24,O Poder do Hábito,Charles Duhigg,nao ficção,"R$87,64",2,CLI1093,osasco,Cartão de Crédito,Loja Física,4
+567,2025-04-30,Clean Code,Robert C. Martin,técnico,"R$24,48",1,CLI1068,BH,,Site,1
+107,2025-05-25,"Pai Rico, Pai Pobre",Robert Kiyosaki,NÃO-FICÇÃO,"R$67,38",5,CLI1128,Belo Horizonte,,Telefone,4
+176,13-11-2025,Sapiens,Yuval Noah Harari,nao ficção,"R$50,13",4,CLI1063,OSASCO ,Cartão de Crédito,Site,5
+96,29-10-2025,1984,George Orwell,FICÇÃO,"R$ 26,07",1,CLI1134,curitiba ,Cartão de Crédito,Telefone,4
+312,2025-11-26,Mindset,Carol Dweck,nao-ficção,"R$50,69",2,CLI1054, São Paulo,Boleto,Loja Física,5
+463,02/02/25,1984,George Orwell,ficcao,"R$50,97",1,CLI1059,belo horizonte,,Marketplace,1
+584,06/03/25,O Alquimista,Paulo Coelho,Ficção,61.40,2,CLI1065,CURITIBA,Pix,Telefone,
+337,11-05-2025,Harry Potter e a Pedra Filosofal,J.K. Rowling,fantasia,26.83,1,CLI1161,Curitiba,Cartão de Crédito,Telefone,
+112,22/10/25,A REVOLUÇÃO DOS BICHOS,George Orwell,clássico,61.67,1,CLI1183,São Paulo,Boleto,Marketplace,4
+487,28/07/25,A Revolução dos Bichos,George Orwell,clássico,67.99,5,CLI1109,CURITIBA,Boleto,Site,5
+193,08/09/25,A Revolução dos Bichos,George Orwell,CLASSICO,"R$84,24",1,CLI1035, Salvador,Boleto,Marketplace,5
+396,22/10/25,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao ficção,"R$ 62,52",3,CLI1090,salvador,Boleto,Telefone,cinco
+548,15/08/2025,O Poder do Hábito,Charles Duhigg,nao ficção,86.53,3,CLI1197,belo horizonte,Cartão de Crédito,Site,3
+66,06-12-2025,Clean Code,Robert C. Martin,TECNICO,"R$83,84",4,CLI1126,salvador,Cartão de Crédito,Loja Física,3
+231,2025-04-23,O Pequeno Príncipe,Antoine de Saint-Exupéry,CLASSICO,77.04,1,CLI1099,RJ,Pix,Loja Física,cinco
+210,04/02/2025,O Poder do Hábito,Charles Duhigg,nao-ficção,73.29,-1,CLI1067,OSASCO ,Boleto,Site,1
+391,04/12/2025,A Revolução dos Bichos,George Orwell,CLASSICO,"R$ 81,69",2,CLI1116,Curitiba,Cartão de Débito,Telefone,
+401,2025-07-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,nao-ficção,"R$39,53",1,CLI1042,Osasco,,Telefone,
+588,29/01/26,O Pequeno Príncipe,Antoine de Saint-Exupéry,clássico,"R$63,57",2,CLI1189,rio de janeiro,Cartão de Débito,Loja Física,5
+157,2025-05-07,A Revolução dos Bichos,George Orwell,CLASSICO,"R$49,59",4,CLI1088, Salvador,Boleto,Marketplace,
+339,16/03/25,A Revolução dos Bichos,George Orwell,Clássico,"R$ 46,57",2,CLI1163,salvador,Pix,Telefone,3
+158,04/02/2025,Dom Casmurro,Machado de Assis,CLASSICO,"R$ 73,52",1,CLI1152,S. Paulo,Cartão de Crédito,Telefone,2
+143,03/10/2025,Clean Code,Robert C. Martin,técnico,"R$72,21",2,CLI1143,BH,Pix,Loja Física,5
+33,24/01/25,Clean Code,Robert C. Martin,TECNICO,"R$41,63",2,CLI1121,sao paulo,,Site,4
+582,2025-05-31,A Menina que Roubava Livros,Markus Zusak,ficcao,"R$24,51",1,CLI1102,CURITIBA,Cartão de Crédito,Telefone,4
+24,15/08/2025,A Menina que Roubava Livros,Markus Zusak,FICÇÃO,"R$73,88",2,CLI1180,São Paulo,Cartão de Débito,Site,
+388,21/12/2025,1984,George Orwell,ficção,"R$81,68",1,CLI1183,BH,Cartão de Crédito,Site,3
