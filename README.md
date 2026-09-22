@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Análise de Vendas — Distribuidora de Livros
 
 Projeto de portfólio para praticar limpeza, tratamento e análise exploratória de dados com **Python (pandas)**. A base simula o histórico de vendas de uma distribuidora de livros, extraída de um sistema antigo sem nenhum tratamento prévio.
