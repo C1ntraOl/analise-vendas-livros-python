@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análise de Vendas — Distribuidora de Livros
 
 Projeto de portfólio para praticar limpeza, tratamento e análise exploratória de dados com **Python (pandas)**. A base simula o histórico de vendas de uma distribuidora de livros, extraída de um sistema antigo sem nenhum tratamento prévio.
@@ -58,3 +59,6 @@ O arquivo `vendas_livros.csv` precisa estar na mesma pasta do notebook.
 ├── vendas_livros.csv       # base de dados original (bagunçada)
 └── README.md
 ```
+=======
+# analise-vendas-livros-python
+>>>>>>> c0371069e513eaa4831c12b39aa84f53c9d97bad
