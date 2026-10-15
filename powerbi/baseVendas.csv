@@ -1,0 +1,592 @@
+id_venda,data_venda,livro,autor,categoria,preco_unitario,quantidade,cliente_id,cidade,forma_pagamento,canal_venda,avaliacao,receita,mes
+174,2025-07-19,1984,George Orwell,Ficcao,40.85,2,CLI1084,Salvador,Cartao De Debito,Loja Física,Sem Avaliacao,81.7,2025-07
+178,2025-02-17,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,27.13,1,CLI1153,Curitiba,Pix,Telefone,5,27.13,2025-02
+76,2025-03-14,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,76.2,5,CLI1173,Osasco,Cartao De Debito,Marketplace,4,381.0,2025-03
+17,2025-07-25,O Hobbit,J.R.R. Tolkien,Fantasia,31.54,5,CLI1042,Sao Paulo,Cartao De Debito,Site,1,157.7,2025-07
+562,2025-11-13,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,64.97,1,CLI1147,Salvador,Cartao De Credito,Loja Física,Sem Avaliacao,64.97,2025-11
+368,2025-08-11,Duna,Frank Herbert,Ficcao Cientifica,51.03,3,CLI1030,Curitiba,Boleto,Site,4,153.09,2025-08
+385,2026-01-16,O Poder Do Habito,Charles Duhigg,Nao Ficcao,70.31,4,CLI1152,Belo Horizonte,Nao Informado,Site,5,281.24,2026-01
+81,2025-06-20,O Hobbit,J.R.R. Tolkien,Fantasia,34.75,1,CLI1032,Belo Horizonte,Nao Informado,Loja Física,4,34.75,2025-06
+80,2025-02-20,Duna,Frank Herbert,Ficcao Cientifica,51.03,2,CLI1139,Osasco,Pix,Site,5,102.06,2025-02
+224,2025-06-17,Dom Casmurro,Machado De Assis,Classico,41.2,1,CLI1023,Sao Paulo,Boleto,Marketplace,3,41.2,2025-06
+486,2025-07-04,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,27.62,1,CLI1142,Osasco,Cartao De Credito,Site,5,27.62,2025-07
+559,2025-10-08,Python Fluente,Luciano Ramalho,Tecnico,32.72,5,CLI1017,Osasco,Cartao De Credito,Telefone,5,163.6,2025-10
+390,2025-04-03,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,41.46,5,CLI1033,Salvador,Boleto,Site,2,207.3,2025-04
+250,2025-04-27,A Menina Que Roubava Livros,Markus Zusak,Ficcao,79.98,1,CLI1076,Osasco,Cartao De Debito,Marketplace,3,79.98,2025-04
+370,2025-05-15,1984,George Orwell,Ficcao,53.21,1,CLI1102,Rio De Janeiro,Nao Informado,Telefone,2,53.21,2025-05
+29,2025-06-10,A Menina Que Roubava Livros,Markus Zusak,Ficcao,27.49,4,CLI1155,Rio De Janeiro,Nao Informado,Site,4,109.96,2025-06
+568,2025-03-14,1984,George Orwell,Ficcao,51.12,2,CLI1138,Osasco,Boleto,Loja Física,5,102.24,2025-03
+5,2025-12-16,Clean Code,Robert C. Martin,Tecnico,34.57,2,CLI1155,Rio De Janeiro,Boleto,Loja Física,2,69.14,2025-12
+150,2025-12-27,O Alquimista,Paulo Coelho,Ficcao,41.38,4,CLI1176,Salvador,Cartao De Credito,Marketplace,5,165.52,2025-12
+428,2025-08-18,A Revolucao Dos Bichos,George Orwell,Classico,80.82,1,CLI1173,Osasco,Pix,Site,4,80.82,2025-08
+302,2025-04-24,A Menina Que Roubava Livros,Markus Zusak,Ficcao,48.79,1,CLI1064,Rio De Janeiro,Boleto,Site,5,48.79,2025-04
+375,2025-11-13,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,24.11,2,CLI1013,Sao Paulo,Cartao De Debito,Site,5,48.22,2025-11
+245,2025-02-10,O Poder Do Habito,Charles Duhigg,Nao Ficcao,59.99,2,CLI1182,Curitiba,Cartao De Credito,Loja Física,4,119.98,2025-02
+455,2025-12-23,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,57.08,5,CLI1115,Curitiba,Cartao De Debito,Loja Física,2,285.4,2025-12
+310,2025-11-29,Python Fluente,Luciano Ramalho,Tecnico,84.15,1,CLI1026,Osasco,Nao Informado,Marketplace,5,84.15,2025-11
+303,2025-04-12,O Alquimista,Paulo Coelho,Ficcao,40.25,1,CLI1124,Curitiba,Pix,Marketplace,5,40.25,2025-04
+294,2025-11-25,Mindset,Carol Dweck,Nao Ficcao,27.93,3,CLI1159,Curitiba,Boleto,Site,5,83.78999999999999,2025-11
+197,2025-11-09,A Revolucao Dos Bichos,George Orwell,Classico,76.65,3,CLI1042,Sao Paulo,Nao Informado,Loja Física,4,229.95000000000002,2025-11
+146,2025-05-29,Python Fluente,Luciano Ramalho,Tecnico,75.06,1,CLI1002,Rio De Janeiro,Pix,Site,1,75.06,2025-05
+580,2025-06-24,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,37.2,5,CLI1085,Salvador,Nao Informado,Loja Física,1,186.0,2025-06
+479,2025-03-21,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,48.74,1,CLI1056,Osasco,Boleto,Site,Sem Avaliacao,48.74,2025-03
+516,2025-07-08,1984,George Orwell,Ficcao,61.93,1,CLI1145,Sao Paulo,Cartao De Credito,Site,3,61.93,2025-07
+447,2025-12-04,Dom Casmurro,Machado De Assis,Classico,55.43,5,CLI1070,Curitiba,Cartao De Credito,Loja Física,4,277.15,2025-12
+177,2025-06-07,O Pequeno Principe,Antoine De Saint-Exupery,Classico,45.15,1,CLI1092,Rio De Janeiro,Pix,Site,Sem Avaliacao,45.15,2025-06
+233,2025-11-11,O Alquimista,Paulo Coelho,Ficcao,56.75,1,CLI1033,Rio De Janeiro,Pix,Loja Física,4,56.75,2025-11
+433,2025-07-15,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,74.55,2,CLI1085,Osasco,Cartao De Credito,Marketplace,4,149.1,2025-07
+465,2025-03-24,O Alquimista,Paulo Coelho,Ficcao,51.81,1,CLI1073,Rio De Janeiro,Boleto,Loja Física,Sem Avaliacao,51.81,2025-03
+135,2025-07-25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,72.75,2,CLI1010,Osasco,Cartao De Credito,Site,Sem Avaliacao,145.5,2025-07
+61,2026-01-25,O Poder Do Habito,Charles Duhigg,Nao Ficcao,63.48,5,CLI1052,Sao Paulo,Pix,Loja Física,1,317.4,2026-01
+60,2025-06-11,Duna,Frank Herbert,Ficcao Cientifica,51.03,1,CLI1082,Belo Horizonte,Cartao De Credito,Telefone,5,51.03,2025-06
+101,2025-03-30,O Alquimista,Paulo Coelho,Ficcao,88.67,1,CLI1063,Belo Horizonte,Cartao De Debito,Telefone,1,88.67,2025-03
+255,2025-01-05,O Hobbit,J.R.R. Tolkien,Fantasia,83.71,1,CLI1064,Salvador,Nao Informado,Marketplace,4,83.71,2025-01
+39,2025-01-15,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,54.08,2,CLI1086,Belo Horizonte,Cartao De Debito,Loja Física,4,108.16,2025-01
+139,2025-04-15,Dom Casmurro,Machado De Assis,Classico,41.2,1,CLI1128,Rio De Janeiro,Nao Informado,Telefone,4,41.2,2025-04
+525,2025-01-03,1984,George Orwell,Ficcao,59.33,2,CLI1196,Salvador,Nao Informado,Loja Física,Sem Avaliacao,118.66,2025-01
+217,2025-09-22,Clean Code,Robert C. Martin,Tecnico,46.0,1,CLI1102,Osasco,Cartao De Credito,Telefone,1,46.0,2025-09
+386,2025-08-14,O Alquimista,Paulo Coelho,Ficcao,58.94,1,CLI1077,Rio De Janeiro,Pix,Telefone,4,58.94,2025-08
+75,2025-07-07,A Menina Que Roubava Livros,Markus Zusak,Ficcao,32.19,1,CLI1128,Osasco,Pix,Loja Física,Sem Avaliacao,32.19,2025-07
+418,2025-03-15,O Poder Do Habito,Charles Duhigg,Nao Ficcao,29.3,1,CLI1168,Rio De Janeiro,Cartao De Debito,Loja Física,Sem Avaliacao,29.3,2025-03
+475,2025-09-09,A Menina Que Roubava Livros,Markus Zusak,Ficcao,28.59,2,CLI1007,Salvador,Cartao De Credito,Marketplace,4,57.18,2025-09
+136,2025-11-10,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,27.13,1,CLI1041,Belo Horizonte,Cartao De Debito,Marketplace,5,27.13,2025-11
+445,2025-04-16,Python Fluente,Luciano Ramalho,Tecnico,49.04,5,CLI1163,Sao Paulo,Pix,Telefone,3,245.2,2025-04
+259,2025-12-10,O Hobbit,J.R.R. Tolkien,Fantasia,69.84,5,CLI1129,Rio De Janeiro,Pix,Loja Física,5,349.20000000000005,2025-12
+532,2025-01-25,A Menina Que Roubava Livros,Markus Zusak,Ficcao,78.81,4,CLI1019,Rio De Janeiro,Cartao De Credito,Site,Sem Avaliacao,315.24,2025-01
+553,2025-07-01,O Poder Do Habito,Charles Duhigg,Nao Ficcao,78.81,2,CLI1012,Curitiba,Cartao De Credito,Telefone,2,157.62,2025-07
+514,2026-01-12,O Hobbit,J.R.R. Tolkien,Fantasia,67.9,3,CLI1066,Salvador,Boleto,Marketplace,3,203.70000000000002,2026-01
+322,2025-12-04,A Menina Que Roubava Livros,Markus Zusak,Ficcao,79.98,4,CLI1191,Osasco,Boleto,Telefone,2,319.92,2025-12
+522,2025-05-15,1984,George Orwell,Ficcao,84.74,2,CLI1194,Belo Horizonte,Pix,Marketplace,5,169.48,2025-05
+453,2025-09-25,1984,George Orwell,Ficcao,60.37,2,CLI1055,Salvador,Nao Informado,Telefone,Sem Avaliacao,120.74,2025-09
+527,2025-01-23,A Revolucao Dos Bichos,George Orwell,Classico,61.49,1,CLI1115,Belo Horizonte,Pix,Loja Física,5,61.49,2025-01
+330,2025-07-01,A Menina Que Roubava Livros,Markus Zusak,Ficcao,25.22,1,CLI1146,Sao Paulo,Pix,Loja Física,4,25.22,2025-07
+141,2025-12-27,Sapiens,Yuval Noah Harari,Nao Ficcao,35.64,2,CLI1176,Osasco,Cartao De Debito,Marketplace,4,71.28,2025-12
+461,2025-07-08,A Revolucao Dos Bichos,George Orwell,Classico,52.81,2,CLI1048,Curitiba,Cartao De Debito,Site,2,105.62,2025-07
+535,2025-03-01,Mindset,Carol Dweck,Nao Ficcao,50.27,1,CLI1043,Osasco,Cartao De Debito,Telefone,1,50.27,2025-03
+44,2025-11-04,Mindset,Carol Dweck,Nao Ficcao,27.03,2,CLI1144,Salvador,Cartao De Credito,Marketplace,2,54.06,2025-11
+132,2025-09-16,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,54.72,1,CLI1061,Belo Horizonte,Boleto,Marketplace,Sem Avaliacao,54.72,2025-09
+456,2025-02-16,Duna,Frank Herbert,Ficcao Cientifica,44.99,2,CLI1122,Belo Horizonte,Pix,Loja Física,1,89.98,2025-02
+16,2025-05-23,Dom Casmurro,Machado De Assis,Classico,57.44,1,CLI1063,Rio De Janeiro,Cartao De Credito,Telefone,Sem Avaliacao,57.44,2025-05
+215,2025-10-21,O Alquimista,Paulo Coelho,Ficcao,45.64,2,CLI1058,Belo Horizonte,Nao Informado,Site,2,91.28,2025-10
+485,2025-02-24,O Hobbit,J.R.R. Tolkien,Fantasia,68.77,1,CLI1090,Salvador,Cartao De Debito,Telefone,3,68.77,2025-02
+149,2025-06-18,Python Fluente,Luciano Ramalho,Tecnico,46.75,5,CLI1149,Rio De Janeiro,Nao Informado,Site,5,233.75,2025-06
+358,2025-10-03,Mindset,Carol Dweck,Nao Ficcao,42.35,1,CLI1048,Osasco,Nao Informado,Telefone,4,42.35,2025-10
+116,2026-01-21,Python Fluente,Luciano Ramalho,Tecnico,55.98,5,CLI1073,Sao Paulo,Pix,Site,4,279.9,2026-01
+127,2025-06-05,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,33.64,2,CLI1136,Osasco,Cartao De Credito,Loja Física,5,67.28,2025-06
+57,2025-12-25,A Menina Que Roubava Livros,Markus Zusak,Ficcao,50.64,5,CLI1069,Curitiba,Nao Informado,Telefone,4,253.2,2025-12
+586,2025-04-11,A Menina Que Roubava Livros,Markus Zusak,Ficcao,23.91,1,CLI1163,Osasco,Boleto,Site,4,23.91,2025-04
+276,2025-12-09,Duna,Frank Herbert,Ficcao Cientifica,60.27,2,CLI1132,Salvador,Nao Informado,Site,5,120.54,2025-12
+417,2025-12-06,O Pequeno Principe,Antoine De Saint-Exupery,Classico,48.32,4,CLI1121,Osasco,Boleto,Loja Física,3,193.28,2025-12
+164,2025-01-08,O Pequeno Principe,Antoine De Saint-Exupery,Classico,34.52,3,CLI1048,Curitiba,Cartao De Credito,Telefone,4,103.56,2025-01
+406,2025-05-21,A Menina Que Roubava Livros,Markus Zusak,Ficcao,79.98,2,CLI1003,Curitiba,Nao Informado,Site,2,159.96,2025-05
+185,2025-11-10,Mindset,Carol Dweck,Nao Ficcao,73.73,3,CLI1144,Salvador,Cartao De Debito,Marketplace,1,221.19,2025-11
+493,2025-01-17,Dom Casmurro,Machado De Assis,Classico,79.6,5,CLI1142,Belo Horizonte,Pix,Loja Física,3,398.0,2025-01
+285,2025-10-11,O Poder Do Habito,Charles Duhigg,Nao Ficcao,78.92,3,CLI1051,Curitiba,Boleto,Marketplace,4,236.76,2025-10
+494,2025-03-22,O Poder Do Habito,Charles Duhigg,Nao Ficcao,66.11,5,CLI1014,Belo Horizonte,Cartao De Debito,Marketplace,Sem Avaliacao,330.55,2025-03
+58,2025-10-22,O Poder Do Habito,Charles Duhigg,Nao Ficcao,21.71,2,CLI1005,Salvador,Pix,Site,5,43.42,2025-10
+575,2025-11-23,Clean Code,Robert C. Martin,Tecnico,83.22,2,CLI1028,Sao Paulo,Pix,Telefone,4,166.44,2025-11
+566,2025-05-03,1984,George Orwell,Ficcao,46.19,1,CLI1150,Belo Horizonte,Boleto,Telefone,5,46.19,2025-05
+154,2025-10-24,O Pequeno Principe,Antoine De Saint-Exupery,Classico,47.62,1,CLI1011,Osasco,Cartao De Debito,Marketplace,2,47.62,2025-10
+137,2025-12-11,A Revolucao Dos Bichos,George Orwell,Classico,53.14,1,CLI1106,Salvador,Nao Informado,Marketplace,2,53.14,2025-12
+26,2025-04-01,Clean Code,Robert C. Martin,Tecnico,72.36,2,CLI1006,Curitiba,Boleto,Marketplace,4,144.72,2025-04
+440,2025-01-22,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,43.65,3,CLI1030,Belo Horizonte,Boleto,Telefone,4,130.95,2025-01
+459,2026-02-01,Mindset,Carol Dweck,Nao Ficcao,32.17,1,CLI1035,Sao Paulo,Pix,Loja Física,4,32.17,2026-02
+298,2025-07-28,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,60.15,2,CLI1115,Osasco,Cartao De Debito,Telefone,4,120.3,2025-07
+48,2025-11-27,Sapiens,Yuval Noah Harari,Nao Ficcao,58.76,2,CLI1114,Salvador,Cartao De Credito,Site,Sem Avaliacao,117.52,2025-11
+284,2025-11-08,O Poder Do Habito,Charles Duhigg,Nao Ficcao,55.19,4,CLI1070,Salvador,Cartao De Debito,Marketplace,4,220.76,2025-11
+502,2025-05-04,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,56.46,3,CLI1191,Curitiba,Pix,Telefone,3,169.38,2025-05
+389,2025-07-14,Dom Casmurro,Machado De Assis,Classico,70.78,1,CLI1196,Curitiba,Boleto,Marketplace,1,70.78,2025-07
+279,2025-10-13,Dom Casmurro,Machado De Assis,Classico,21.14,4,CLI1000,Belo Horizonte,Cartao De Credito,Marketplace,Sem Avaliacao,84.56,2025-10
+37,2025-04-29,A Menina Que Roubava Livros,Markus Zusak,Ficcao,42.28,1,CLI1177,Rio De Janeiro,Boleto,Loja Física,4,42.28,2025-04
+84,2025-12-04,Mindset,Carol Dweck,Nao Ficcao,86.08,1,CLI1077,Sao Paulo,Cartao De Debito,Site,Sem Avaliacao,86.08,2025-12
+202,2025-12-16,Clean Code,Robert C. Martin,Tecnico,59.53,5,CLI1011,Curitiba,Cartao De Credito,Telefone,1,297.65,2025-12
+68,2026-01-24,Dom Casmurro,Machado De Assis,Classico,46.5,3,CLI1138,Osasco,Cartao De Credito,Site,Sem Avaliacao,139.5,2026-01
+54,2026-01-14,O Hobbit,J.R.R. Tolkien,Fantasia,59.7,1,CLI1195,Curitiba,Boleto,Loja Física,2,59.7,2026-01
+556,2025-08-02,O Pequeno Principe,Antoine De Saint-Exupery,Classico,85.07,5,CLI1036,Belo Horizonte,Nao Informado,Loja Física,3,425.34999999999997,2025-08
+243,2025-07-15,O Poder Do Habito,Charles Duhigg,Nao Ficcao,26.28,4,CLI1047,Belo Horizonte,Cartao De Debito,Site,5,105.12,2025-07
+352,2025-03-23,O Pequeno Principe,Antoine De Saint-Exupery,Classico,67.6,2,CLI1190,Rio De Janeiro,Nao Informado,Site,1,135.2,2025-03
+448,2025-07-06,Python Fluente,Luciano Ramalho,Tecnico,31.08,1,CLI1053,Belo Horizonte,Cartao De Debito,Marketplace,5,31.08,2025-07
+388,2025-12-21,1984,George Orwell,Ficcao,81.68,1,CLI1183,Belo Horizonte,Cartao De Credito,Site,3,81.68,2025-12
+232,2025-10-16,Duna,Frank Herbert,Ficcao Cientifica,21.87,3,CLI1144,Salvador,Boleto,Telefone,3,65.61,2025-10
+520,2025-09-16,O Alquimista,Paulo Coelho,Ficcao,83.48,1,CLI1097,Osasco,Pix,Telefone,5,83.48,2025-09
+315,2025-08-30,O Alquimista,Paulo Coelho,Ficcao,86.21,2,CLI1043,Salvador,Boleto,Telefone,Sem Avaliacao,172.42,2025-08
+1,2025-02-22,O Pequeno Principe,Antoine De Saint-Exupery,Classico,39.15,2,CLI1022,Sao Paulo,Nao Informado,Telefone,Sem Avaliacao,78.3,2025-02
+415,2025-12-14,Mindset,Carol Dweck,Nao Ficcao,27.93,3,CLI1111,Curitiba,Pix,Site,5,83.78999999999999,2025-12
+373,2025-01-28,Sapiens,Yuval Noah Harari,Nao Ficcao,72.94,1,CLI1158,Salvador,Boleto,Marketplace,4,72.94,2025-01
+309,2025-09-07,Mindset,Carol Dweck,Nao Ficcao,85.64,1,CLI1016,Salvador,Pix,Marketplace,4,85.64,2025-09
+590,2025-05-06,A Menina Que Roubava Livros,Markus Zusak,Ficcao,70.22,3,CLI1050,Rio De Janeiro,Cartao De Credito,Loja Física,3,210.66,2025-05
+272,2025-03-01,O Hobbit,J.R.R. Tolkien,Fantasia,45.12,3,CLI1194,Rio De Janeiro,Cartao De Credito,Site,2,135.35999999999999,2025-03
+598,2025-04-27,O Pequeno Principe,Antoine De Saint-Exupery,Classico,40.52,1,CLI1030,Sao Paulo,Cartao De Credito,Marketplace,2,40.52,2025-04
+198,2025-12-27,Mindset,Carol Dweck,Nao Ficcao,61.68,1,CLI1074,Osasco,Nao Informado,Marketplace,5,61.68,2025-12
+289,2025-12-17,Duna,Frank Herbert,Ficcao Cientifica,23.19,4,CLI1141,Osasco,Cartao De Credito,Site,5,92.76,2025-12
+175,2025-11-11,O Alquimista,Paulo Coelho,Ficcao,78.61,3,CLI1101,Sao Paulo,Pix,Site,5,235.82999999999998,2025-11
+353,2025-03-27,Clean Code,Robert C. Martin,Tecnico,36.42,4,CLI1149,Sao Paulo,Cartao De Credito,Telefone,5,145.68,2025-03
+572,2025-07-31,O Pequeno Principe,Antoine De Saint-Exupery,Classico,20.2,1,CLI1178,Sao Paulo,Cartao De Debito,Telefone,Sem Avaliacao,20.2,2025-07
+492,2025-10-05,A Revolucao Dos Bichos,George Orwell,Classico,66.25,5,CLI1138,Belo Horizonte,Nao Informado,Site,5,331.25,2025-10
+251,2026-01-24,Dom Casmurro,Machado De Assis,Classico,41.2,4,CLI1095,Rio De Janeiro,Cartao De Credito,Loja Física,Sem Avaliacao,164.8,2026-01
+82,2025-03-16,Mindset,Carol Dweck,Nao Ficcao,74.11,1,CLI1138,Rio De Janeiro,Pix,Loja Física,3,74.11,2025-03
+504,2025-01-19,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,59.09,4,CLI1040,Osasco,Pix,Loja Física,4,236.36,2025-01
+596,2025-02-13,A Menina Que Roubava Livros,Markus Zusak,Ficcao,85.38,3,CLI1192,Belo Horizonte,Cartao De Credito,Marketplace,3,256.14,2025-02
+287,2025-04-13,O Alquimista,Paulo Coelho,Ficcao,46.56,1,CLI1192,Curitiba,Boleto,Marketplace,5,46.56,2025-04
+179,2025-03-28,Dom Casmurro,Machado De Assis,Classico,59.94,1,CLI1068,Salvador,Pix,Marketplace,3,59.94,2025-03
+209,2025-02-06,O Alquimista,Paulo Coelho,Ficcao,27.79,5,CLI1003,Rio De Janeiro,Pix,Marketplace,Sem Avaliacao,138.95,2025-02
+190,2025-10-02,Duna,Frank Herbert,Ficcao Cientifica,72.56,1,CLI1093,Rio De Janeiro,Pix,Loja Física,3,72.56,2025-10
+269,2025-11-13,A Menina Que Roubava Livros,Markus Zusak,Ficcao,49.22,1,CLI1072,Curitiba,Cartao De Credito,Site,2,49.22,2025-11
+244,2025-06-26,O Hobbit,J.R.R. Tolkien,Fantasia,30.48,1,CLI1105,Osasco,Nao Informado,Loja Física,Sem Avaliacao,30.48,2025-06
+478,2025-12-17,1984,George Orwell,Ficcao,57.96,3,CLI1069,Sao Paulo,Pix,Site,5,173.88,2025-12
+317,2025-11-11,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,77.76,1,CLI1009,Curitiba,Nao Informado,Site,5,77.76,2025-11
+538,2025-08-19,Dom Casmurro,Machado De Assis,Classico,69.08,5,CLI1062,Rio De Janeiro,Boleto,Marketplace,5,345.4,2025-08
+573,2025-07-12,Dom Casmurro,Machado De Assis,Classico,51.06,1,CLI1091,Curitiba,Cartao De Debito,Loja Física,5,51.06,2025-07
+241,2025-01-26,Sapiens,Yuval Noah Harari,Nao Ficcao,66.14,2,CLI1146,Belo Horizonte,Nao Informado,Telefone,4,132.28,2025-01
+374,2025-09-25,A Menina Que Roubava Livros,Markus Zusak,Ficcao,43.13,2,CLI1140,Belo Horizonte,Cartao De Debito,Loja Física,5,86.26,2025-09
+264,2025-09-02,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,64.24,4,CLI1001,Sao Paulo,Cartao De Credito,Loja Física,4,256.96,2025-09
+378,2025-01-16,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,37.94,4,CLI1071,Osasco,Boleto,Loja Física,Sem Avaliacao,151.76,2025-01
+30,2025-02-05,O Alquimista,Paulo Coelho,Ficcao,56.29,2,CLI1159,Salvador,Pix,Site,5,112.58,2025-02
+191,2025-06-28,A Revolucao Dos Bichos,George Orwell,Classico,61.69,4,CLI1117,Curitiba,Nao Informado,Loja Física,5,246.76,2025-06
+290,2025-10-07,O Hobbit,J.R.R. Tolkien,Fantasia,69.22,3,CLI1050,Belo Horizonte,Boleto,Marketplace,5,207.66,2025-10
+518,2025-01-15,Sapiens,Yuval Noah Harari,Nao Ficcao,49.18,4,CLI1067,Osasco,Boleto,Telefone,5,196.72,2025-01
+342,2025-07-19,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,63.17,1,CLI1058,Sao Paulo,Boleto,Marketplace,5,63.17,2025-07
+400,2025-01-29,O Hobbit,J.R.R. Tolkien,Fantasia,74.78,4,CLI1076,Curitiba,Nao Informado,Marketplace,Sem Avaliacao,299.12,2025-01
+67,2025-12-02,A Revolucao Dos Bichos,George Orwell,Classico,20.97,1,CLI1019,Sao Paulo,Cartao De Debito,Marketplace,3,20.97,2025-12
+546,2025-09-13,Dom Casmurro,Machado De Assis,Classico,70.88,5,CLI1039,Rio De Janeiro,Pix,Marketplace,2,354.4,2025-09
+530,2025-11-04,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,81.88,5,CLI1023,Rio De Janeiro,Cartao De Debito,Marketplace,4,409.4,2025-11
+261,2025-11-21,Clean Code,Robert C. Martin,Tecnico,34.57,1,CLI1148,Osasco,Nao Informado,Site,5,34.57,2025-11
+407,2025-06-23,A Menina Que Roubava Livros,Markus Zusak,Ficcao,31.89,2,CLI1113,Rio De Janeiro,Cartao De Credito,Loja Física,Sem Avaliacao,63.78,2025-06
+410,2025-06-16,1984,George Orwell,Ficcao,47.35,3,CLI1124,Curitiba,Cartao De Credito,Site,Sem Avaliacao,142.05,2025-06
+63,2025-09-05,1984,George Orwell,Ficcao,55.52,2,CLI1062,Belo Horizonte,Cartao De Debito,Loja Física,Sem Avaliacao,111.04,2025-09
+549,2025-11-25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,47.43,1,CLI1147,Rio De Janeiro,Cartao De Credito,Marketplace,3,47.43,2025-11
+234,2025-12-06,Duna,Frank Herbert,Ficcao Cientifica,80.15,1,CLI1150,Rio De Janeiro,Cartao De Credito,Marketplace,4,80.15,2025-12
+332,2025-09-10,Mindset,Carol Dweck,Nao Ficcao,79.26,3,CLI1070,Sao Paulo,Cartao De Debito,Loja Física,5,237.78000000000003,2025-09
+405,2026-01-28,O Hobbit,J.R.R. Tolkien,Fantasia,52.58,1,CLI1005,Curitiba,Nao Informado,Marketplace,5,52.58,2026-01
+95,2025-10-21,O Alquimista,Paulo Coelho,Ficcao,84.38,3,CLI1181,Belo Horizonte,Cartao De Debito,Marketplace,4,253.14,2025-10
+513,2025-06-10,1984,George Orwell,Ficcao,20.12,2,CLI1021,Salvador,Cartao De Credito,Loja Física,5,40.24,2025-06
+536,2025-12-20,Mindset,Carol Dweck,Nao Ficcao,63.19,3,CLI1077,Salvador,Cartao De Credito,Loja Física,4,189.57,2025-12
+131,2025-08-03,A Revolucao Dos Bichos,George Orwell,Classico,23.44,4,CLI1040,Rio De Janeiro,Pix,Marketplace,4,93.76,2025-08
+361,2025-12-29,O Hobbit,J.R.R. Tolkien,Fantasia,24.15,4,CLI1157,Sao Paulo,Pix,Site,1,96.6,2025-12
+381,2026-01-27,Duna,Frank Herbert,Ficcao Cientifica,78.67,1,CLI1105,Sao Paulo,Cartao De Debito,Marketplace,5,78.67,2026-01
+423,2025-10-16,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,22.37,2,CLI1015,Osasco,Cartao De Debito,Loja Física,5,44.74,2025-10
+397,2025-03-02,Mindset,Carol Dweck,Nao Ficcao,20.01,1,CLI1157,Rio De Janeiro,Cartao De Debito,Telefone,4,20.01,2025-03
+42,2025-05-03,O Pequeno Principe,Antoine De Saint-Exupery,Classico,33.86,1,CLI1121,Sao Paulo,Cartao De Credito,Loja Física,3,33.86,2025-05
+145,2025-11-27,Python Fluente,Luciano Ramalho,Tecnico,33.86,2,CLI1196,Belo Horizonte,Cartao De Credito,Loja Física,1,67.72,2025-11
+181,2025-08-09,O Poder Do Habito,Charles Duhigg,Nao Ficcao,76.19,3,CLI1034,Osasco,Pix,Marketplace,5,228.57,2025-08
+32,2025-09-19,A Menina Que Roubava Livros,Markus Zusak,Ficcao,52.45,5,CLI1188,Rio De Janeiro,Boleto,Site,Sem Avaliacao,262.25,2025-09
+331,2025-07-02,Duna,Frank Herbert,Ficcao Cientifica,35.94,2,CLI1199,Rio De Janeiro,Cartao De Credito,Site,3,71.88,2025-07
+266,2025-09-08,A Menina Que Roubava Livros,Markus Zusak,Ficcao,50.26,1,CLI1192,Osasco,Boleto,Loja Física,5,50.26,2025-09
+441,2025-11-13,Dom Casmurro,Machado De Assis,Classico,65.67,5,CLI1062,Sao Paulo,Boleto,Site,1,328.35,2025-11
+458,2025-02-11,O Alquimista,Paulo Coelho,Ficcao,68.76,2,CLI1085,Osasco,Cartao De Credito,Marketplace,5,137.52,2025-02
+280,2025-11-14,Clean Code,Robert C. Martin,Tecnico,79.0,3,CLI1121,Osasco,Pix,Telefone,5,237.0,2025-11
+555,2025-08-17,O Poder Do Habito,Charles Duhigg,Nao Ficcao,24.25,1,CLI1094,Belo Horizonte,Nao Informado,Telefone,2,24.25,2025-08
+529,2026-01-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,28.34,5,CLI1175,Belo Horizonte,Nao Informado,Loja Física,5,141.7,2026-01
+438,2025-12-05,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,32.26,1,CLI1076,Osasco,Cartao De Debito,Site,4,32.26,2025-12
+511,2025-05-21,Python Fluente,Luciano Ramalho,Tecnico,81.46,4,CLI1199,Belo Horizonte,Cartao De Debito,Telefone,2,325.84,2025-05
+286,2026-01-25,Duna,Frank Herbert,Ficcao Cientifica,57.87,3,CLI1143,Salvador,Cartao De Debito,Telefone,5,173.60999999999999,2026-01
+495,2025-07-07,O Pequeno Principe,Antoine De Saint-Exupery,Classico,24.2,1,CLI1189,Osasco,Nao Informado,Site,5,24.2,2025-07
+351,2025-08-15,Python Fluente,Luciano Ramalho,Tecnico,28.44,2,CLI1188,Osasco,Cartao De Credito,Loja Física,4,56.88,2025-08
+257,2025-11-30,Clean Code,Robert C. Martin,Tecnico,80.2,2,CLI1048,Osasco,Boleto,Loja Física,5,160.4,2025-11
+186,2025-12-14,Sapiens,Yuval Noah Harari,Nao Ficcao,51.1,4,CLI1176,Curitiba,Nao Informado,Loja Física,5,204.4,2025-12
+599,2025-11-06,O Pequeno Principe,Antoine De Saint-Exupery,Classico,72.06,2,CLI1192,Osasco,Nao Informado,Marketplace,3,144.12,2025-11
+345,2026-01-24,Clean Code,Robert C. Martin,Tecnico,41.15,1,CLI1088,Belo Horizonte,Pix,Telefone,3,41.15,2026-01
+2,2025-10-29,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,33.82,4,CLI1001,Curitiba,Boleto,Telefone,5,135.28,2025-10
+451,2025-11-09,Sapiens,Yuval Noah Harari,Nao Ficcao,23.7,4,CLI1045,Sao Paulo,Cartao De Debito,Marketplace,Sem Avaliacao,94.8,2025-11
+214,2025-08-08,O Hobbit,J.R.R. Tolkien,Fantasia,31.54,1,CLI1134,Osasco,Cartao De Credito,Marketplace,5,31.54,2025-08
+51,2025-01-28,Clean Code,Robert C. Martin,Tecnico,69.46,1,CLI1074,Rio De Janeiro,Boleto,Telefone,Sem Avaliacao,69.46,2025-01
+236,2025-06-12,1984,George Orwell,Ficcao,79.45,1,CLI1056,Rio De Janeiro,Nao Informado,Site,5,79.45,2025-06
+444,2025-11-20,O Poder Do Habito,Charles Duhigg,Nao Ficcao,50.61,1,CLI1096,Rio De Janeiro,Boleto,Site,5,50.61,2025-11
+359,2025-03-08,O Pequeno Principe,Antoine De Saint-Exupery,Classico,56.52,1,CLI1008,Osasco,Boleto,Site,3,56.52,2025-03
+19,2025-02-05,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,87.15,1,CLI1017,Curitiba,Boleto,Telefone,5,87.15,2025-02
+471,2025-07-10,O Alquimista,Paulo Coelho,Ficcao,30.26,4,CLI1072,Salvador,Pix,Marketplace,1,121.04,2025-07
+254,2025-10-20,Duna,Frank Herbert,Ficcao Cientifica,51.03,1,CLI1056,Salvador,Boleto,Loja Física,4,51.03,2025-10
+144,2025-06-19,Sapiens,Yuval Noah Harari,Nao Ficcao,64.56,1,CLI1025,Sao Paulo,Boleto,Site,Sem Avaliacao,64.56,2025-06
+480,2025-08-15,O Hobbit,J.R.R. Tolkien,Fantasia,44.27,3,CLI1133,Rio De Janeiro,Pix,Loja Física,5,132.81,2025-08
+271,2025-02-08,Python Fluente,Luciano Ramalho,Tecnico,54.49,1,CLI1065,Sao Paulo,Boleto,Telefone,2,54.49,2025-02
+117,2025-04-06,O Poder Do Habito,Charles Duhigg,Nao Ficcao,82.52,4,CLI1177,Belo Horizonte,Cartao De Debito,Marketplace,Sem Avaliacao,330.08,2025-04
+446,2026-02-05,Duna,Frank Herbert,Ficcao Cientifica,70.1,1,CLI1089,Sao Paulo,Cartao De Debito,Site,5,70.1,2026-02
+377,2025-07-21,1984,George Orwell,Ficcao,22.68,2,CLI1004,Rio De Janeiro,Pix,Marketplace,3,45.36,2025-07
+222,2026-01-12,Sapiens,Yuval Noah Harari,Nao Ficcao,84.72,4,CLI1081,Osasco,Cartao De Debito,Marketplace,5,338.88,2026-01
+526,2025-10-30,A Revolucao Dos Bichos,George Orwell,Classico,21.72,1,CLI1082,Salvador,Boleto,Site,2,21.72,2025-10
+187,2025-06-25,A Menina Que Roubava Livros,Markus Zusak,Ficcao,78.09,1,CLI1200,Belo Horizonte,Boleto,Telefone,Sem Avaliacao,78.09,2025-06
+142,2025-07-22,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,28.43,4,CLI1197,Salvador,Boleto,Marketplace,5,113.72,2025-07
+323,2025-03-16,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,31.15,1,CLI1153,Osasco,Cartao De Debito,Site,Sem Avaliacao,31.15,2025-03
+138,2025-11-19,O Pequeno Principe,Antoine De Saint-Exupery,Classico,70.4,5,CLI1198,Curitiba,Cartao De Debito,Loja Física,5,352.0,2025-11
+153,2025-08-17,A Revolucao Dos Bichos,George Orwell,Classico,60.72,1,CLI1116,Sao Paulo,Boleto,Telefone,1,60.72,2025-08
+77,2025-11-23,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,67.0,2,CLI1027,Sao Paulo,Boleto,Telefone,5,134.0,2025-11
+229,2025-10-06,Dom Casmurro,Machado De Assis,Classico,49.25,2,CLI1097,Osasco,Pix,Telefone,1,98.5,2025-10
+22,2025-10-11,1984,George Orwell,Ficcao,62.72,1,CLI1169,Belo Horizonte,Cartao De Credito,Loja Física,5,62.72,2025-10
+336,2025-01-05,O Hobbit,J.R.R. Tolkien,Fantasia,75.9,1,CLI1107,Belo Horizonte,Cartao De Debito,Loja Física,3,75.9,2025-01
+376,2025-07-14,O Hobbit,J.R.R. Tolkien,Fantasia,31.54,4,CLI1181,Salvador,Cartao De Credito,Marketplace,Sem Avaliacao,126.16,2025-07
+481,2025-02-10,Sapiens,Yuval Noah Harari,Nao Ficcao,41.42,2,CLI1176,Rio De Janeiro,Cartao De Credito,Site,4,82.84,2025-02
+282,2025-02-25,Dom Casmurro,Machado De Assis,Classico,77.62,2,CLI1011,Belo Horizonte,Nao Informado,Site,4,155.24,2025-02
+449,2025-01-15,A Revolucao Dos Bichos,George Orwell,Classico,23.57,1,CLI1131,Sao Paulo,Cartao De Credito,Site,Sem Avaliacao,23.57,2025-01
+581,2025-07-13,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,25.89,1,CLI1177,Sao Paulo,Cartao De Credito,Loja Física,5,25.89,2025-07
+491,2025-06-17,Dom Casmurro,Machado De Assis,Classico,41.2,4,CLI1077,Belo Horizonte,Nao Informado,Site,3,164.8,2025-06
+108,2025-09-22,1984,George Orwell,Ficcao,40.85,1,CLI1072,Osasco,Cartao De Credito,Loja Física,2,40.85,2025-09
+452,2025-02-26,Clean Code,Robert C. Martin,Tecnico,28.8,1,CLI1117,Osasco,Cartao De Debito,Loja Física,Sem Avaliacao,28.8,2025-02
+195,2025-08-23,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,76.2,2,CLI1190,Rio De Janeiro,Cartao De Debito,Site,5,152.4,2025-08
+437,2025-06-05,A Revolucao Dos Bichos,George Orwell,Classico,85.35,3,CLI1014,Sao Paulo,Cartao De Credito,Marketplace,4,256.04999999999995,2025-06
+435,2025-09-12,Dom Casmurro,Machado De Assis,Classico,37.44,5,CLI1167,Sao Paulo,Cartao De Credito,Site,3,187.2,2025-09
+157,2025-05-07,A Revolucao Dos Bichos,George Orwell,Classico,49.59,4,CLI1088,Salvador,Boleto,Marketplace,Sem Avaliacao,198.36,2025-05
+509,2025-12-06,O Hobbit,J.R.R. Tolkien,Fantasia,87.58,1,CLI1176,Osasco,Boleto,Marketplace,1,87.58,2025-12
+365,2025-01-18,Duna,Frank Herbert,Ficcao Cientifica,51.22,4,CLI1152,Osasco,Cartao De Credito,Loja Física,5,204.88,2025-01
+363,2025-04-03,O Pequeno Principe,Antoine De Saint-Exupery,Classico,49.8,1,CLI1102,Belo Horizonte,Nao Informado,Marketplace,Sem Avaliacao,49.8,2025-04
+265,2025-06-26,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,67.27,2,CLI1033,Curitiba,Cartao De Credito,Telefone,5,134.54,2025-06
+476,2025-09-01,Duna,Frank Herbert,Ficcao Cientifica,59.49,2,CLI1095,Osasco,Nao Informado,Site,2,118.98,2025-09
+97,2025-06-28,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,57.04,2,CLI1186,Rio De Janeiro,Boleto,Loja Física,5,114.08,2025-06
+237,2025-12-10,Sapiens,Yuval Noah Harari,Nao Ficcao,64.43,1,CLI1114,Osasco,Cartao De Credito,Marketplace,5,64.43,2025-12
+93,2025-06-07,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,27.66,5,CLI1056,Sao Paulo,Cartao De Debito,Site,1,138.3,2025-06
+296,2026-01-31,Sapiens,Yuval Noah Harari,Nao Ficcao,86.27,1,CLI1136,Osasco,Cartao De Credito,Site,Sem Avaliacao,86.27,2026-01
+124,2025-10-10,1984,George Orwell,Ficcao,45.16,3,CLI1156,Rio De Janeiro,Cartao De Credito,Site,3,135.48,2025-10
+454,2025-10-30,Duna,Frank Herbert,Ficcao Cientifica,50.3,2,CLI1146,Rio De Janeiro,Cartao De Credito,Telefone,3,100.6,2025-10
+221,2025-09-16,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,51.99,1,CLI1163,Belo Horizonte,Cartao De Debito,Site,3,51.99,2025-09
+484,2026-01-02,Mindset,Carol Dweck,Nao Ficcao,77.27,1,CLI1072,Rio De Janeiro,Boleto,Site,4,77.27,2026-01
+460,2025-05-17,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,72.62,2,CLI1174,Curitiba,Cartao De Debito,Marketplace,Sem Avaliacao,145.24,2025-05
+297,2025-02-06,O Hobbit,J.R.R. Tolkien,Fantasia,34.29,4,CLI1006,Salvador,Cartao De Debito,Marketplace,3,137.16,2025-02
+248,2025-10-02,Mindset,Carol Dweck,Nao Ficcao,59.29,1,CLI1105,Curitiba,Pix,Telefone,5,59.29,2025-10
+115,2025-03-11,O Hobbit,J.R.R. Tolkien,Fantasia,52.42,5,CLI1183,Salvador,Cartao De Debito,Site,2,262.1,2025-03
+293,2025-04-24,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,57.92,4,CLI1169,Curitiba,Pix,Marketplace,4,231.68,2025-04
+74,2025-11-27,O Pequeno Principe,Antoine De Saint-Exupery,Classico,78.58,1,CLI1079,Salvador,Cartao De Debito,Site,1,78.58,2025-11
+306,2025-03-13,A Revolucao Dos Bichos,George Orwell,Classico,65.09,1,CLI1050,Curitiba,Pix,Site,Sem Avaliacao,65.09,2025-03
+560,2025-09-16,Python Fluente,Luciano Ramalho,Tecnico,78.31,1,CLI1194,Osasco,Cartao De Debito,Telefone,Sem Avaliacao,78.31,2025-09
+156,2025-10-03,O Pequeno Principe,Antoine De Saint-Exupery,Classico,80.12,1,CLI1135,Curitiba,Boleto,Loja Física,4,80.12,2025-10
+46,2025-05-06,A Menina Que Roubava Livros,Markus Zusak,Ficcao,52.44,2,CLI1071,Curitiba,Cartao De Debito,Loja Física,2,104.88,2025-05
+218,2025-06-05,Dom Casmurro,Machado De Assis,Classico,45.72,2,CLI1062,Curitiba,Cartao De Debito,Marketplace,5,91.44,2025-06
+126,2025-09-23,O Pequeno Principe,Antoine De Saint-Exupery,Classico,50.18,1,CLI1077,Curitiba,Boleto,Loja Física,3,50.18,2025-09
+102,2025-02-18,O Poder Do Habito,Charles Duhigg,Nao Ficcao,75.15,3,CLI1173,Belo Horizonte,Cartao De Debito,Marketplace,Sem Avaliacao,225.45000000000002,2025-02
+510,2025-07-21,Clean Code,Robert C. Martin,Tecnico,80.59,5,CLI1077,Salvador,Cartao De Credito,Loja Física,5,402.95000000000005,2025-07
+160,2025-10-30,O Pequeno Principe,Antoine De Saint-Exupery,Classico,40.94,1,CLI1160,Curitiba,Cartao De Debito,Telefone,3,40.94,2025-10
+240,2025-08-09,O Poder Do Habito,Charles Duhigg,Nao Ficcao,43.56,5,CLI1155,Rio De Janeiro,Cartao De Debito,Loja Física,3,217.8,2025-08
+219,2025-10-05,Duna,Frank Herbert,Ficcao Cientifica,20.35,4,CLI1162,Curitiba,Cartao De Credito,Marketplace,5,81.4,2025-10
+313,2025-09-03,Dom Casmurro,Machado De Assis,Classico,76.68,1,CLI1053,Salvador,Nao Informado,Loja Física,Sem Avaliacao,76.68,2025-09
+507,2025-04-22,Dom Casmurro,Machado De Assis,Classico,71.51,2,CLI1027,Osasco,Boleto,Loja Física,3,143.02,2025-04
+121,2025-02-28,Mindset,Carol Dweck,Nao Ficcao,41.91,2,CLI1188,Rio De Janeiro,Boleto,Telefone,1,83.82,2025-02
+270,2025-10-08,A Menina Que Roubava Livros,Markus Zusak,Ficcao,69.14,2,CLI1053,Curitiba,Cartao De Debito,Marketplace,Sem Avaliacao,138.28,2025-10
+372,2025-03-28,Clean Code,Robert C. Martin,Tecnico,61.47,1,CLI1157,Rio De Janeiro,Cartao De Debito,Loja Física,5,61.47,2025-03
+408,2025-10-31,Dom Casmurro,Machado De Assis,Classico,49.75,1,CLI1157,Belo Horizonte,Pix,Marketplace,Sem Avaliacao,49.75,2025-10
+65,2025-06-14,A Revolucao Dos Bichos,George Orwell,Classico,73.3,4,CLI1178,Osasco,Boleto,Telefone,4,293.2,2025-06
+304,2025-12-04,A Menina Que Roubava Livros,Markus Zusak,Ficcao,42.15,5,CLI1177,Curitiba,Nao Informado,Loja Física,5,210.75,2025-12
+73,2026-01-17,O Hobbit,J.R.R. Tolkien,Fantasia,20.47,1,CLI1073,Salvador,Boleto,Marketplace,Sem Avaliacao,20.47,2026-01
+402,2025-09-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,69.59,2,CLI1095,Osasco,Cartao De Debito,Marketplace,4,139.18,2025-09
+36,2026-01-20,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,82.7,5,CLI1163,Belo Horizonte,Pix,Telefone,4,413.5,2026-01
+252,2025-05-08,1984,George Orwell,Ficcao,32.06,2,CLI1116,Curitiba,Cartao De Credito,Marketplace,1,64.12,2025-05
+362,2025-09-27,Sapiens,Yuval Noah Harari,Nao Ficcao,70.66,4,CLI1145,Curitiba,Boleto,Telefone,4,282.64,2025-09
+4,2025-04-27,O Pequeno Principe,Antoine De Saint-Exupery,Classico,33.36,1,CLI1020,Curitiba,Boleto,Site,5,33.36,2025-04
+542,2025-05-25,O Poder Do Habito,Charles Duhigg,Nao Ficcao,75.62,1,CLI1170,Salvador,Cartao De Debito,Loja Física,2,75.62,2025-05
+165,2025-07-04,O Poder Do Habito,Charles Duhigg,Nao Ficcao,46.55,3,CLI1127,Rio De Janeiro,Cartao De Debito,Site,Sem Avaliacao,139.64999999999998,2025-07
+541,2025-12-17,Sapiens,Yuval Noah Harari,Nao Ficcao,36.15,2,CLI1154,Belo Horizonte,Cartao De Debito,Loja Física,5,72.3,2025-12
+327,2025-07-28,Sapiens,Yuval Noah Harari,Nao Ficcao,84.98,1,CLI1027,Curitiba,Nao Informado,Site,Sem Avaliacao,84.98,2025-07
+574,2025-12-30,Sapiens,Yuval Noah Harari,Nao Ficcao,71.92,2,CLI1049,Belo Horizonte,Cartao De Credito,Marketplace,5,143.84,2025-12
+412,2025-04-17,O Poder Do Habito,Charles Duhigg,Nao Ficcao,88.07,4,CLI1110,Rio De Janeiro,Cartao De Debito,Marketplace,5,352.28,2025-04
+595,2025-10-26,Duna,Frank Herbert,Ficcao Cientifica,53.06,4,CLI1053,Belo Horizonte,Boleto,Loja Física,1,212.24,2025-10
+277,2025-03-22,Clean Code,Robert C. Martin,Tecnico,46.84,1,CLI1120,Salvador,Cartao De Debito,Loja Física,Sem Avaliacao,46.84,2025-03
+106,2025-05-02,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,22.96,3,CLI1156,Curitiba,Pix,Telefone,Sem Avaliacao,68.88,2025-05
+314,2025-03-17,Mindset,Carol Dweck,Nao Ficcao,63.97,1,CLI1042,Curitiba,Pix,Loja Física,1,63.97,2025-03
+496,2025-06-09,Clean Code,Robert C. Martin,Tecnico,66.19,2,CLI1021,Belo Horizonte,Cartao De Credito,Marketplace,5,132.38,2025-06
+170,2025-12-24,O Alquimista,Paulo Coelho,Ficcao,57.4,2,CLI1045,Curitiba,Cartao De Credito,Site,4,114.8,2025-12
+118,2025-06-17,Dom Casmurro,Machado De Assis,Classico,58.08,3,CLI1078,Belo Horizonte,Cartao De Debito,Telefone,5,174.24,2025-06
+13,2025-01-11,Clean Code,Robert C. Martin,Tecnico,28.37,2,CLI1141,Belo Horizonte,Boleto,Loja Física,5,56.74,2025-01
+148,2025-09-21,A Menina Que Roubava Livros,Markus Zusak,Ficcao,32.18,4,CLI1022,Curitiba,Cartao De Debito,Site,5,128.72,2025-09
+450,2025-02-26,Clean Code,Robert C. Martin,Tecnico,67.28,3,CLI1058,Belo Horizonte,Cartao De Credito,Loja Física,5,201.84,2025-02
+267,2025-11-24,1984,George Orwell,Ficcao,28.52,1,CLI1197,Rio De Janeiro,Nao Informado,Site,5,28.52,2025-11
+21,2025-04-20,Clean Code,Robert C. Martin,Tecnico,63.38,1,CLI1067,Sao Paulo,Boleto,Marketplace,Sem Avaliacao,63.38,2025-04
+369,2025-12-11,Clean Code,Robert C. Martin,Tecnico,42.78,2,CLI1114,Curitiba,Nao Informado,Site,4,85.56,2025-12
+360,2025-04-24,O Pequeno Principe,Antoine De Saint-Exupery,Classico,56.71,2,CLI1183,Belo Horizonte,Cartao De Credito,Site,5,113.42,2025-04
+192,2025-12-22,O Pequeno Principe,Antoine De Saint-Exupery,Classico,36.6,1,CLI1130,Rio De Janeiro,Cartao De Debito,Telefone,3,36.6,2025-12
+169,2025-11-23,Duna,Frank Herbert,Ficcao Cientifica,55.3,3,CLI1123,Rio De Janeiro,Cartao De Debito,Site,5,165.89999999999998,2025-11
+540,2025-03-01,O Poder Do Habito,Charles Duhigg,Nao Ficcao,38.65,4,CLI1159,Curitiba,Pix,Telefone,Sem Avaliacao,154.6,2025-03
+319,2025-04-30,Python Fluente,Luciano Ramalho,Tecnico,49.68,2,CLI1072,Salvador,Nao Informado,Telefone,2,99.36,2025-04
+570,2025-07-22,O Hobbit,J.R.R. Tolkien,Fantasia,31.54,1,CLI1035,Curitiba,Nao Informado,Marketplace,2,31.54,2025-07
+105,2026-01-28,Dom Casmurro,Machado De Assis,Classico,73.86,1,CLI1033,Osasco,Nao Informado,Telefone,5,73.86,2026-01
+78,2025-06-04,Clean Code,Robert C. Martin,Tecnico,24.33,5,CLI1029,Curitiba,Boleto,Site,4,121.64999999999999,2025-06
+413,2025-02-19,Duna,Frank Herbert,Ficcao Cientifica,27.9,5,CLI1045,Salvador,Pix,Telefone,Sem Avaliacao,139.5,2025-02
+152,2025-10-16,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,56.87,3,CLI1015,Sao Paulo,Nao Informado,Loja Física,2,170.60999999999999,2025-10
+350,2026-01-20,A Menina Que Roubava Livros,Markus Zusak,Ficcao,68.69,1,CLI1014,Belo Horizonte,Pix,Telefone,3,68.69,2026-01
+411,2025-07-27,O Hobbit,J.R.R. Tolkien,Fantasia,62.21,1,CLI1083,Rio De Janeiro,Nao Informado,Site,2,62.21,2025-07
+569,2025-09-04,O Alquimista,Paulo Coelho,Ficcao,65.61,1,CLI1153,Sao Paulo,Pix,Telefone,5,65.61,2025-09
+31,2025-07-14,Clean Code,Robert C. Martin,Tecnico,58.71,2,CLI1157,Belo Horizonte,Nao Informado,Marketplace,3,117.42,2025-07
+543,2025-07-03,Dom Casmurro,Machado De Assis,Classico,36.33,1,CLI1091,Belo Horizonte,Boleto,Loja Física,5,36.33,2025-07
+473,2025-07-29,O Hobbit,J.R.R. Tolkien,Fantasia,85.22,4,CLI1106,Curitiba,Boleto,Telefone,5,340.88,2025-07
+379,2025-10-21,Dom Casmurro,Machado De Assis,Classico,87.14,2,CLI1109,Salvador,Pix,Marketplace,3,174.28,2025-10
+122,2025-09-09,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,34.92,2,CLI1031,Osasco,Boleto,Site,4,69.84,2025-09
+159,2026-01-10,A Revolucao Dos Bichos,George Orwell,Classico,29.71,2,CLI1081,Rio De Janeiro,Nao Informado,Marketplace,5,59.42,2026-01
+552,2026-01-23,1984,George Orwell,Ficcao,34.86,2,CLI1005,Curitiba,Cartao De Credito,Marketplace,3,69.72,2026-01
+316,2025-11-02,1984,George Orwell,Ficcao,31.64,3,CLI1017,Curitiba,Boleto,Telefone,5,94.92,2025-11
+11,2025-06-07,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,54.1,1,CLI1014,Curitiba,Boleto,Site,4,54.1,2025-06
+325,2025-12-12,Python Fluente,Luciano Ramalho,Tecnico,22.25,2,CLI1092,Curitiba,Boleto,Site,1,44.5,2025-12
+427,2025-08-26,Mindset,Carol Dweck,Nao Ficcao,64.86,1,CLI1121,Salvador,Pix,Telefone,4,64.86,2025-08
+301,2025-10-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,86.92,1,CLI1031,Salvador,Cartao De Credito,Site,3,86.92,2025-10
+258,2025-06-01,Mindset,Carol Dweck,Nao Ficcao,67.55,1,CLI1107,Belo Horizonte,Cartao De Debito,Telefone,5,67.55,2025-06
+120,2025-10-18,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,24.61,3,CLI1154,Belo Horizonte,Boleto,Telefone,1,73.83,2025-10
+262,2025-03-19,O Hobbit,J.R.R. Tolkien,Fantasia,40.78,1,CLI1051,Salvador,Pix,Telefone,3,40.78,2025-03
+497,2025-12-23,Clean Code,Robert C. Martin,Tecnico,80.34,4,CLI1150,Sao Paulo,Cartao De Credito,Marketplace,Sem Avaliacao,321.36,2025-12
+230,2026-02-03,Clean Code,Robert C. Martin,Tecnico,21.72,2,CLI1014,Belo Horizonte,Cartao De Debito,Marketplace,5,43.44,2026-02
+300,2025-10-01,Python Fluente,Luciano Ramalho,Tecnico,77.45,1,CLI1034,Belo Horizonte,Cartao De Debito,Marketplace,4,77.45,2025-10
+462,2025-04-15,Dom Casmurro,Machado De Assis,Classico,41.2,1,CLI1160,Sao Paulo,Cartao De Credito,Marketplace,Sem Avaliacao,41.2,2025-04
+172,2025-11-27,A Revolucao Dos Bichos,George Orwell,Classico,31.9,5,CLI1144,Sao Paulo,Cartao De Credito,Site,5,159.5,2025-11
+355,2025-11-27,Duna,Frank Herbert,Ficcao Cientifica,54.05,3,CLI1112,Curitiba,Boleto,Site,5,162.14999999999998,2025-11
+247,2025-09-24,Dom Casmurro,Machado De Assis,Classico,47.71,3,CLI1003,Sao Paulo,Nao Informado,Telefone,Sem Avaliacao,143.13,2025-09
+561,2025-01-24,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,47.01,4,CLI1188,Curitiba,Pix,Site,Sem Avaliacao,188.04,2025-01
+432,2025-08-28,O Poder Do Habito,Charles Duhigg,Nao Ficcao,82.62,1,CLI1163,Salvador,Cartao De Debito,Marketplace,2,82.62,2025-08
+90,2025-05-20,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,62.53,2,CLI1086,Curitiba,Pix,Site,5,125.06,2025-05
+171,2025-05-05,A Menina Que Roubava Livros,Markus Zusak,Ficcao,25.43,4,CLI1076,Osasco,Cartao De Credito,Site,4,101.72,2025-05
+521,2025-08-28,O Alquimista,Paulo Coelho,Ficcao,31.79,5,CLI1022,Curitiba,Pix,Telefone,3,158.95,2025-08
+199,2025-12-31,O Poder Do Habito,Charles Duhigg,Nao Ficcao,69.0,1,CLI1063,Sao Paulo,Cartao De Debito,Telefone,5,69.0,2025-12
+324,2025-11-02,Mindset,Carol Dweck,Nao Ficcao,62.88,2,CLI1198,Sao Paulo,Boleto,Telefone,1,125.76,2025-11
+167,2025-09-08,O Poder Do Habito,Charles Duhigg,Nao Ficcao,70.31,3,CLI1117,Curitiba,Boleto,Marketplace,Sem Avaliacao,210.93,2025-09
+308,2025-09-15,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,29.27,1,CLI1169,Curitiba,Boleto,Loja Física,1,29.27,2025-09
+49,2026-01-17,A Menina Que Roubava Livros,Markus Zusak,Ficcao,53.03,3,CLI1084,Salvador,Pix,Telefone,Sem Avaliacao,159.09,2026-01
+488,2025-07-22,O Alquimista,Paulo Coelho,Ficcao,47.65,1,CLI1177,Salvador,Nao Informado,Site,4,47.65,2025-07
+464,2025-06-06,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,51.96,1,CLI1066,Osasco,Boleto,Telefone,3,51.96,2025-06
+292,2025-10-21,O Alquimista,Paulo Coelho,Ficcao,41.38,2,CLI1091,Rio De Janeiro,Cartao De Credito,Marketplace,Sem Avaliacao,82.76,2025-10
+275,2025-09-07,1984,George Orwell,Ficcao,62.7,1,CLI1105,Curitiba,Cartao De Debito,Site,2,62.7,2025-09
+425,2025-03-31,Dom Casmurro,Machado De Assis,Classico,71.63,5,CLI1200,Curitiba,Boleto,Telefone,5,358.15,2025-03
+534,2025-08-19,O Poder Do Habito,Charles Duhigg,Nao Ficcao,61.0,5,CLI1067,Salvador,Pix,Loja Física,5,305.0,2025-08
+419,2025-08-06,O Hobbit,J.R.R. Tolkien,Fantasia,85.02,1,CLI1115,Belo Horizonte,Cartao De Debito,Marketplace,Sem Avaliacao,85.02,2025-08
+155,2026-01-28,Python Fluente,Luciano Ramalho,Tecnico,40.0,1,CLI1095,Sao Paulo,Cartao De Debito,Telefone,4,40.0,2026-01
+565,2025-01-31,1984,George Orwell,Ficcao,41.38,4,CLI1083,Osasco,Boleto,Site,5,165.52,2025-01
+477,2025-08-03,Clean Code,Robert C. Martin,Tecnico,44.92,1,CLI1012,Belo Horizonte,Pix,Marketplace,5,44.92,2025-08
+392,2025-03-17,Python Fluente,Luciano Ramalho,Tecnico,63.9,2,CLI1167,Curitiba,Pix,Site,1,127.8,2025-03
+189,2025-08-10,O Poder Do Habito,Charles Duhigg,Nao Ficcao,63.98,1,CLI1007,Belo Horizonte,Nao Informado,Loja Física,4,63.98,2025-08
+383,2025-07-11,Dom Casmurro,Machado De Assis,Classico,55.06,5,CLI1099,Salvador,Cartao De Debito,Telefone,3,275.3,2025-07
+333,2025-07-21,1984,George Orwell,Ficcao,53.38,1,CLI1117,Sao Paulo,Cartao De Credito,Telefone,3,53.38,2025-07
+467,2026-01-29,1984,George Orwell,Ficcao,40.85,4,CLI1117,Curitiba,Pix,Loja Física,3,163.4,2026-01
+544,2025-06-24,Dom Casmurro,Machado De Assis,Classico,59.24,5,CLI1196,Curitiba,Cartao De Credito,Marketplace,5,296.2,2025-06
+34,2025-12-19,Sapiens,Yuval Noah Harari,Nao Ficcao,54.51,2,CLI1192,Salvador,Cartao De Credito,Telefone,1,109.02,2025-12
+398,2025-02-04,O Pequeno Principe,Antoine De Saint-Exupery,Classico,33.98,2,CLI1076,Rio De Janeiro,Nao Informado,Marketplace,5,67.96,2025-02
+235,2025-10-15,Duna,Frank Herbert,Ficcao Cientifica,65.34,1,CLI1091,Belo Horizonte,Boleto,Loja Física,5,65.34,2025-10
+109,2025-08-01,O Hobbit,J.R.R. Tolkien,Fantasia,77.07,3,CLI1101,Belo Horizonte,Nao Informado,Marketplace,1,231.20999999999998,2025-08
+424,2025-05-23,Duna,Frank Herbert,Ficcao Cientifica,53.83,1,CLI1033,Curitiba,Nao Informado,Marketplace,5,53.83,2025-05
+7,2025-11-26,Mindset,Carol Dweck,Nao Ficcao,27.93,4,CLI1036,Salvador,Pix,Loja Física,Sem Avaliacao,111.72,2025-11
+524,2025-02-27,A Revolucao Dos Bichos,George Orwell,Classico,89.12,5,CLI1031,Sao Paulo,Pix,Site,3,445.6,2025-02
+578,2025-08-04,A Revolucao Dos Bichos,George Orwell,Classico,81.77,2,CLI1114,Osasco,Pix,Site,Sem Avaliacao,163.54,2025-08
+206,2025-12-13,Dom Casmurro,Machado De Assis,Classico,29.5,1,CLI1017,Osasco,Nao Informado,Site,3,29.5,2025-12
+404,2025-08-24,O Hobbit,J.R.R. Tolkien,Fantasia,89.39,2,CLI1182,Sao Paulo,Nao Informado,Site,4,178.78,2025-08
+89,2025-06-29,Mindset,Carol Dweck,Nao Ficcao,65.87,2,CLI1094,Curitiba,Cartao De Credito,Marketplace,Sem Avaliacao,131.74,2025-06
+387,2025-09-14,O Alquimista,Paulo Coelho,Ficcao,52.35,5,CLI1046,Salvador,Nao Informado,Loja Física,2,261.75,2025-09
+183,2025-02-05,Duna,Frank Herbert,Ficcao Cientifica,50.59,2,CLI1172,Belo Horizonte,Cartao De Debito,Loja Física,4,101.18,2025-02
+55,2025-08-29,1984,George Orwell,Ficcao,20.09,5,CLI1008,Curitiba,Boleto,Marketplace,5,100.45,2025-08
+110,2025-03-12,Sapiens,Yuval Noah Harari,Nao Ficcao,78.64,3,CLI1073,Sao Paulo,Cartao De Debito,Loja Física,1,235.92000000000002,2025-03
+119,2025-11-23,O Alquimista,Paulo Coelho,Ficcao,39.12,1,CLI1093,Salvador,Nao Informado,Loja Física,4,39.12,2025-11
+62,2025-10-10,Dom Casmurro,Machado De Assis,Classico,69.58,2,CLI1023,Sao Paulo,Boleto,Site,4,139.16,2025-10
+220,2025-01-31,Duna,Frank Herbert,Ficcao Cientifica,34.26,2,CLI1182,Salvador,Pix,Site,3,68.52,2025-01
+203,2025-06-04,A Revolucao Dos Bichos,George Orwell,Classico,34.06,1,CLI1070,Belo Horizonte,Cartao De Credito,Marketplace,3,34.06,2025-06
+278,2025-05-01,Clean Code,Robert C. Martin,Tecnico,35.49,4,CLI1117,Osasco,Cartao De Debito,Telefone,2,141.96,2025-05
+508,2025-08-05,Mindset,Carol Dweck,Nao Ficcao,68.87,1,CLI1174,Sao Paulo,Boleto,Marketplace,Sem Avaliacao,68.87,2025-08
+320,2025-12-19,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,56.28,4,CLI1104,Sao Paulo,Pix,Site,5,225.12,2025-12
+528,2025-05-11,A Menina Que Roubava Livros,Markus Zusak,Ficcao,58.2,4,CLI1061,Osasco,Cartao De Debito,Site,3,232.8,2025-05
+321,2025-07-31,A Menina Que Roubava Livros,Markus Zusak,Ficcao,62.73,4,CLI1200,Curitiba,Nao Informado,Telefone,Sem Avaliacao,250.92,2025-07
+288,2025-12-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,45.01,5,CLI1057,Osasco,Nao Informado,Telefone,Sem Avaliacao,225.04999999999998,2025-12
+166,2025-01-09,Sapiens,Yuval Noah Harari,Nao Ficcao,23.1,2,CLI1141,Osasco,Nao Informado,Telefone,5,46.2,2025-01
+483,2026-01-18,Sapiens,Yuval Noah Harari,Nao Ficcao,66.84,1,CLI1148,Curitiba,Pix,Marketplace,5,66.84,2026-01
+56,2025-10-06,O Pequeno Principe,Antoine De Saint-Exupery,Classico,61.19,2,CLI1165,Rio De Janeiro,Boleto,Marketplace,4,122.38,2025-10
+263,2025-01-30,1984,George Orwell,Ficcao,64.07,1,CLI1115,Sao Paulo,Pix,Loja Física,1,64.07,2025-01
+213,2025-03-25,O Alquimista,Paulo Coelho,Ficcao,28.26,1,CLI1088,Osasco,Nao Informado,Marketplace,Sem Avaliacao,28.26,2025-03
+519,2025-07-23,A Revolucao Dos Bichos,George Orwell,Classico,29.22,3,CLI1182,Sao Paulo,Cartao De Debito,Telefone,4,87.66,2025-07
+395,2025-02-25,A Menina Que Roubava Livros,Markus Zusak,Ficcao,56.63,2,CLI1186,Osasco,Nao Informado,Site,5,113.26,2025-02
+371,2025-05-17,Sapiens,Yuval Noah Harari,Nao Ficcao,59.18,2,CLI1082,Belo Horizonte,Nao Informado,Site,4,118.36,2025-05
+86,2025-11-06,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,89.52,2,CLI1025,Salvador,Cartao De Credito,Loja Física,4,179.04,2025-11
+341,2025-07-23,O Alquimista,Paulo Coelho,Ficcao,85.73,1,CLI1024,Rio De Janeiro,Cartao De Credito,Telefone,2,85.73,2025-07
+50,2026-01-14,Duna,Frank Herbert,Ficcao Cientifica,71.9,1,CLI1070,Rio De Janeiro,Nao Informado,Marketplace,Sem Avaliacao,71.9,2026-01
+113,2025-09-27,Mindset,Carol Dweck,Nao Ficcao,56.54,3,CLI1129,Belo Horizonte,Nao Informado,Site,Sem Avaliacao,169.62,2025-09
+597,2025-07-08,O Alquimista,Paulo Coelho,Ficcao,49.73,5,CLI1081,Belo Horizonte,Pix,Telefone,Sem Avaliacao,248.64999999999998,2025-07
+343,2025-08-28,O Hobbit,J.R.R. Tolkien,Fantasia,66.35,3,CLI1069,Rio De Janeiro,Nao Informado,Telefone,Sem Avaliacao,199.04999999999998,2025-08
+349,2026-01-08,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,39.65,1,CLI1059,Sao Paulo,Cartao De Credito,Loja Física,1,39.65,2026-01
+99,2025-06-08,A Revolucao Dos Bichos,George Orwell,Classico,61.3,3,CLI1115,Salvador,Cartao De Credito,Site,Sem Avaliacao,183.89999999999998,2025-06
+173,2025-05-24,Python Fluente,Luciano Ramalho,Tecnico,23.16,1,CLI1144,Curitiba,Cartao De Credito,Loja Física,Sem Avaliacao,23.16,2025-05
+554,2025-09-24,Clean Code,Robert C. Martin,Tecnico,40.84,1,CLI1026,Rio De Janeiro,Pix,Loja Física,4,40.84,2025-09
+15,2026-01-09,Sapiens,Yuval Noah Harari,Nao Ficcao,44.7,4,CLI1172,Sao Paulo,Cartao De Credito,Site,1,178.8,2026-01
+216,2025-01-19,O Alquimista,Paulo Coelho,Ficcao,84.32,1,CLI1182,Belo Horizonte,Cartao De Debito,Loja Física,Sem Avaliacao,84.32,2025-01
+9,2025-10-11,O Pequeno Principe,Antoine De Saint-Exupery,Classico,46.83,5,CLI1174,Belo Horizonte,Cartao De Credito,Marketplace,1,234.14999999999998,2025-10
+47,2025-05-13,Clean Code,Robert C. Martin,Tecnico,32.63,2,CLI1071,Sao Paulo,Nao Informado,Marketplace,5,65.26,2025-05
+103,2025-06-08,Python Fluente,Luciano Ramalho,Tecnico,25.61,1,CLI1033,Curitiba,Nao Informado,Site,4,25.61,2025-06
+123,2025-05-29,Dom Casmurro,Machado De Assis,Classico,44.22,1,CLI1040,Salvador,Boleto,Marketplace,5,44.22,2025-05
+594,2025-11-27,A Revolucao Dos Bichos,George Orwell,Classico,31.62,4,CLI1095,Salvador,Cartao De Debito,Telefone,Sem Avaliacao,126.48,2025-11
+128,2025-11-25,Python Fluente,Luciano Ramalho,Tecnico,22.78,1,CLI1067,Curitiba,Boleto,Telefone,5,22.78,2025-11
+104,2025-06-08,Clean Code,Robert C. Martin,Tecnico,66.83,3,CLI1054,Rio De Janeiro,Pix,Telefone,3,200.49,2025-06
+393,2025-04-02,O Hobbit,J.R.R. Tolkien,Fantasia,84.33,1,CLI1172,Curitiba,Pix,Loja Física,3,84.33,2025-04
+194,2025-09-09,O Alquimista,Paulo Coelho,Ficcao,76.97,5,CLI1181,Belo Horizonte,Cartao De Debito,Telefone,4,384.85,2025-09
+591,2025-04-18,O Pequeno Principe,Antoine De Saint-Exupery,Classico,75.02,1,CLI1116,Rio De Janeiro,Boleto,Marketplace,5,75.02,2025-04
+434,2026-01-29,Python Fluente,Luciano Ramalho,Tecnico,65.08,1,CLI1055,Rio De Janeiro,Nao Informado,Site,4,65.08,2026-01
+3,2025-11-06,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,46.49,3,CLI1011,Osasco,Cartao De Debito,Site,5,139.47,2025-11
+27,2025-01-20,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,75.02,1,CLI1056,Rio De Janeiro,Boleto,Telefone,Sem Avaliacao,75.02,2025-01
+228,2025-11-14,Clean Code,Robert C. Martin,Tecnico,39.49,1,CLI1062,Rio De Janeiro,Pix,Telefone,5,39.49,2025-11
+72,2025-09-05,O Poder Do Habito,Charles Duhigg,Nao Ficcao,79.07,2,CLI1060,Salvador,Cartao De Debito,Marketplace,2,158.14,2025-09
+354,2025-09-13,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,45.9,1,CLI1175,Salvador,Nao Informado,Marketplace,2,45.9,2025-09
+200,2026-01-19,O Poder Do Habito,Charles Duhigg,Nao Ficcao,64.25,1,CLI1177,Belo Horizonte,Pix,Telefone,5,64.25,2026-01
+53,2025-08-02,1984,George Orwell,Ficcao,89.47,1,CLI1152,Rio De Janeiro,Nao Informado,Loja Física,5,89.47,2025-08
+338,2025-11-07,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,48.72,3,CLI1147,Osasco,Nao Informado,Loja Física,4,146.16,2025-11
+367,2026-01-06,A Menina Que Roubava Livros,Markus Zusak,Ficcao,59.73,2,CLI1123,Osasco,Boleto,Telefone,5,119.46,2026-01
+340,2025-11-06,1984,George Orwell,Ficcao,42.08,2,CLI1069,Osasco,Cartao De Debito,Marketplace,4,84.16,2025-11
+329,2025-04-23,O Hobbit,J.R.R. Tolkien,Fantasia,37.95,4,CLI1080,Sao Paulo,Cartao De Debito,Marketplace,4,151.8,2025-04
+268,2025-08-31,O Alquimista,Paulo Coelho,Ficcao,51.0,1,CLI1052,Sao Paulo,Cartao De Credito,Marketplace,3,51.0,2025-08
+416,2025-10-14,O Hobbit,J.R.R. Tolkien,Fantasia,45.75,1,CLI1028,Rio De Janeiro,Pix,Site,5,45.75,2025-10
+326,2026-01-13,O Poder Do Habito,Charles Duhigg,Nao Ficcao,48.28,2,CLI1023,Osasco,Nao Informado,Marketplace,2,96.56,2026-01
+571,2025-12-06,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,64.36,5,CLI1087,Osasco,Boleto,Telefone,5,321.8,2025-12
+25,2025-01-22,Python Fluente,Luciano Ramalho,Tecnico,60.68,1,CLI1093,Rio De Janeiro,Cartao De Credito,Marketplace,5,60.68,2025-01
+357,2025-05-15,O Hobbit,J.R.R. Tolkien,Fantasia,24.72,1,CLI1093,Curitiba,Cartao De Debito,Site,Sem Avaliacao,24.72,2025-05
+227,2025-10-21,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,85.86,1,CLI1185,Osasco,Cartao De Debito,Telefone,4,85.86,2025-10
+442,2025-02-24,O Hobbit,J.R.R. Tolkien,Fantasia,31.85,1,CLI1127,Sao Paulo,Nao Informado,Loja Física,2,31.85,2025-02
+273,2025-06-25,Clean Code,Robert C. Martin,Tecnico,81.39,1,CLI1029,Belo Horizonte,Cartao De Debito,Telefone,3,81.39,2025-06
+500,2025-06-04,Mindset,Carol Dweck,Nao Ficcao,34.58,1,CLI1076,Curitiba,Cartao De Debito,Marketplace,Sem Avaliacao,34.58,2025-06
+18,2025-06-01,A Revolucao Dos Bichos,George Orwell,Classico,86.91,5,CLI1014,Osasco,Nao Informado,Site,4,434.54999999999995,2025-06
+545,2026-01-22,Mindset,Carol Dweck,Nao Ficcao,84.76,5,CLI1027,Salvador,Nao Informado,Site,2,423.8,2026-01
+111,2025-05-28,Dom Casmurro,Machado De Assis,Classico,78.35,4,CLI1077,Sao Paulo,Cartao De Credito,Site,4,313.4,2025-05
+92,2025-05-20,Dom Casmurro,Machado De Assis,Classico,72.71,1,CLI1169,Sao Paulo,Cartao De Debito,Telefone,Sem Avaliacao,72.71,2025-05
+533,2025-01-09,Duna,Frank Herbert,Ficcao Cientifica,37.74,1,CLI1189,Curitiba,Cartao De Debito,Loja Física,2,37.74,2025-01
+226,2025-02-08,Clean Code,Robert C. Martin,Tecnico,25.78,2,CLI1016,Salvador,Boleto,Telefone,1,51.56,2025-02
+558,2025-06-05,A Menina Que Roubava Livros,Markus Zusak,Ficcao,28.14,2,CLI1124,Sao Paulo,Cartao De Credito,Loja Física,5,56.28,2025-06
+140,2025-08-24,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,56.68,3,CLI1087,Osasco,Nao Informado,Marketplace,Sem Avaliacao,170.04,2025-08
+347,2025-05-03,Duna,Frank Herbert,Ficcao Cientifica,51.03,1,CLI1195,Salvador,Nao Informado,Marketplace,Sem Avaliacao,51.03,2025-05
+489,2025-05-23,Clean Code,Robert C. Martin,Tecnico,36.2,4,CLI1151,Rio De Janeiro,Pix,Telefone,5,144.8,2025-05
+225,2025-02-22,A Menina Que Roubava Livros,Markus Zusak,Ficcao,79.72,2,CLI1031,Rio De Janeiro,Cartao De Credito,Site,3,159.44,2025-02
+482,2025-05-10,O Alquimista,Paulo Coelho,Ficcao,75.41,1,CLI1016,Rio De Janeiro,Pix,Site,1,75.41,2025-05
+40,2025-08-08,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,59.41,1,CLI1118,Sao Paulo,Boleto,Site,3,59.41,2025-08
+87,2025-12-07,Clean Code,Robert C. Martin,Tecnico,70.97,3,CLI1095,Belo Horizonte,Boleto,Telefone,5,212.91,2025-12
+201,2025-10-01,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,64.34,3,CLI1055,Salvador,Cartao De Debito,Loja Física,4,193.02,2025-10
+380,2025-09-26,1984,George Orwell,Ficcao,40.85,2,CLI1110,Curitiba,Boleto,Loja Física,3,81.7,2025-09
+274,2025-12-23,O Hobbit,J.R.R. Tolkien,Fantasia,81.93,1,CLI1040,Belo Horizonte,Cartao De Credito,Telefone,1,81.93,2025-12
+64,2025-09-17,Duna,Frank Herbert,Ficcao Cientifica,73.99,4,CLI1000,Rio De Janeiro,Pix,Marketplace,5,295.96,2025-09
+151,2025-10-09,1984,George Orwell,Ficcao,72.24,3,CLI1193,Belo Horizonte,Nao Informado,Loja Física,Sem Avaliacao,216.71999999999997,2025-10
+91,2025-08-21,O Poder Do Habito,Charles Duhigg,Nao Ficcao,26.32,2,CLI1040,Sao Paulo,Pix,Marketplace,5,52.64,2025-08
+52,2025-09-02,A Revolucao Dos Bichos,George Orwell,Classico,32.81,1,CLI1016,Belo Horizonte,Cartao De Debito,Telefone,2,32.81,2025-09
+311,2025-07-12,O Poder Do Habito,Charles Duhigg,Nao Ficcao,61.04,1,CLI1132,Salvador,Cartao De Debito,Marketplace,4,61.04,2025-07
+10,2025-06-02,A Revolucao Dos Bichos,George Orwell,Classico,80.82,1,CLI1155,Sao Paulo,Boleto,Loja Física,Sem Avaliacao,80.82,2025-06
+88,2025-07-30,O Poder Do Habito,Charles Duhigg,Nao Ficcao,58.85,3,CLI1170,Sao Paulo,Cartao De Debito,Site,5,176.55,2025-07
+83,2026-01-15,O Alquimista,Paulo Coelho,Ficcao,21.0,2,CLI1134,Osasco,Cartao De Credito,Site,4,42.0,2026-01
+431,2025-01-30,Clean Code,Robert C. Martin,Tecnico,33.42,1,CLI1168,Rio De Janeiro,Boleto,Site,5,33.42,2025-01
+577,2025-08-07,Duna,Frank Herbert,Ficcao Cientifica,51.03,5,CLI1082,Salvador,Cartao De Debito,Telefone,1,255.15,2025-08
+242,2025-04-16,Dom Casmurro,Machado De Assis,Classico,61.92,2,CLI1163,Osasco,Pix,Site,3,123.84,2025-04
+585,2025-11-30,Sapiens,Yuval Noah Harari,Nao Ficcao,28.84,4,CLI1079,Rio De Janeiro,Nao Informado,Loja Física,5,115.36,2025-11
+366,2025-08-24,Sapiens,Yuval Noah Harari,Nao Ficcao,84.24,1,CLI1039,Osasco,Boleto,Marketplace,5,84.24,2025-08
+517,2026-02-05,O Hobbit,J.R.R. Tolkien,Fantasia,35.61,2,CLI1073,Salvador,Cartao De Debito,Telefone,5,71.22,2026-02
+547,2025-07-10,O Poder Do Habito,Charles Duhigg,Nao Ficcao,43.79,1,CLI1092,Sao Paulo,Boleto,Loja Física,4,43.79,2025-07
+523,2025-01-19,A Revolucao Dos Bichos,George Orwell,Classico,33.12,1,CLI1066,Rio De Janeiro,Boleto,Telefone,Sem Avaliacao,33.12,2025-01
+43,2025-02-25,1984,George Orwell,Ficcao,74.35,1,CLI1006,Curitiba,Pix,Telefone,5,74.35,2025-02
+35,2025-08-26,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,37.34,1,CLI1143,Belo Horizonte,Nao Informado,Marketplace,Sem Avaliacao,37.34,2025-08
+498,2026-01-27,Dom Casmurro,Machado De Assis,Classico,67.16,3,CLI1042,Belo Horizonte,Nao Informado,Marketplace,5,201.48,2026-01
+249,2025-06-19,1984,George Orwell,Ficcao,63.18,4,CLI1012,Osasco,Cartao De Debito,Marketplace,4,252.72,2025-06
+238,2025-07-31,A Menina Que Roubava Livros,Markus Zusak,Ficcao,46.92,4,CLI1096,Sao Paulo,Pix,Telefone,Sem Avaliacao,187.68,2025-07
+499,2025-10-21,O Pequeno Principe,Antoine De Saint-Exupery,Classico,40.01,1,CLI1057,Sao Paulo,Nao Informado,Site,4,40.01,2025-10
+344,2025-11-24,1984,George Orwell,Ficcao,64.07,4,CLI1079,Curitiba,Pix,Telefone,Sem Avaliacao,256.28,2025-11
+168,2025-12-09,1984,George Orwell,Ficcao,56.58,1,CLI1195,Curitiba,Cartao De Credito,Telefone,1,56.58,2025-12
+70,2025-07-15,1984,George Orwell,Ficcao,31.8,1,CLI1174,Rio De Janeiro,Boleto,Telefone,5,31.8,2025-07
+557,2026-01-18,Duna,Frank Herbert,Ficcao Cientifica,68.51,5,CLI1143,Curitiba,Pix,Site,3,342.55,2026-01
+583,2025-11-14,Mindset,Carol Dweck,Nao Ficcao,52.39,4,CLI1086,Sao Paulo,Cartao De Credito,Telefone,2,209.56,2025-11
+129,2025-02-07,A Menina Que Roubava Livros,Markus Zusak,Ficcao,37.04,4,CLI1040,Salvador,Cartao De Debito,Telefone,1,148.16,2025-02
+6,2026-02-02,Python Fluente,Luciano Ramalho,Tecnico,35.27,3,CLI1058,Salvador,Cartao De Credito,Marketplace,1,105.81,2026-02
+20,2025-04-15,Mindset,Carol Dweck,Nao Ficcao,49.25,3,CLI1061,Curitiba,Pix,Telefone,5,147.75,2025-04
+593,2025-06-17,O Alquimista,Paulo Coelho,Ficcao,79.71,2,CLI1013,Curitiba,Pix,Loja Física,4,159.42,2025-06
+100,2026-01-14,O Hobbit,J.R.R. Tolkien,Fantasia,31.54,5,CLI1115,Sao Paulo,Nao Informado,Loja Física,1,157.7,2026-01
+439,2025-10-31,A Revolucao Dos Bichos,George Orwell,Classico,22.4,1,CLI1125,Salvador,Cartao De Debito,Site,4,22.4,2025-10
+205,2025-08-05,O Pequeno Principe,Antoine De Saint-Exupery,Classico,68.59,1,CLI1122,Belo Horizonte,Cartao De Credito,Loja Física,3,68.59,2025-08
+382,2025-01-14,O Pequeno Principe,Antoine De Saint-Exupery,Classico,74.44,1,CLI1157,Salvador,Pix,Loja Física,5,74.44,2025-01
+579,2025-06-18,Mindset,Carol Dweck,Nao Ficcao,86.94,2,CLI1016,Sao Paulo,Cartao De Credito,Site,5,173.88,2025-06
+196,2025-02-22,Clean Code,Robert C. Martin,Tecnico,50.8,2,CLI1076,Curitiba,Cartao De Credito,Telefone,4,101.6,2025-02
+505,2025-01-29,O Pequeno Principe,Antoine De Saint-Exupery,Classico,79.58,5,CLI1080,Curitiba,Nao Informado,Marketplace,2,397.9,2025-01
+384,2025-02-03,O Poder Do Habito,Charles Duhigg,Nao Ficcao,35.48,2,CLI1112,Sao Paulo,Nao Informado,Telefone,3,70.96,2025-02
+346,2025-01-04,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,73.51,2,CLI1095,Belo Horizonte,Boleto,Telefone,Sem Avaliacao,147.02,2025-01
+328,2025-10-16,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,37.41,5,CLI1197,Osasco,Boleto,Marketplace,Sem Avaliacao,187.04999999999998,2025-10
+38,2025-10-27,A Revolucao Dos Bichos,George Orwell,Classico,78.2,4,CLI1195,Belo Horizonte,Nao Informado,Telefone,1,312.8,2025-10
+14,2025-09-06,Sapiens,Yuval Noah Harari,Nao Ficcao,24.86,2,CLI1138,Sao Paulo,Boleto,Telefone,4,49.72,2025-09
+23,2025-11-21,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,62.24,3,CLI1129,Rio De Janeiro,Cartao De Debito,Marketplace,5,186.72,2025-11
+260,2025-06-21,Duna,Frank Herbert,Ficcao Cientifica,73.3,1,CLI1056,Osasco,Pix,Loja Física,2,73.3,2025-06
+600,2025-09-20,Clean Code,Robert C. Martin,Tecnico,34.57,1,CLI1101,Belo Horizonte,Boleto,Loja Física,3,34.57,2025-09
+130,2025-03-08,1984,George Orwell,Ficcao,71.29,3,CLI1131,Osasco,Nao Informado,Site,5,213.87,2025-03
+85,2025-02-11,O Poder Do Habito,Charles Duhigg,Nao Ficcao,69.77,5,CLI1155,Salvador,Boleto,Site,5,348.84999999999997,2025-02
+420,2025-10-07,Mindset,Carol Dweck,Nao Ficcao,69.75,2,CLI1093,Belo Horizonte,Cartao De Credito,Site,5,139.5,2025-10
+79,2026-01-08,Dom Casmurro,Machado De Assis,Classico,51.66,4,CLI1106,Rio De Janeiro,Cartao De Credito,Telefone,3,206.64,2026-01
+125,2025-06-12,A Revolucao Dos Bichos,George Orwell,Classico,77.53,1,CLI1115,Curitiba,Cartao De Debito,Marketplace,2,77.53,2025-06
+422,2025-10-01,O Pequeno Principe,Antoine De Saint-Exupery,Classico,41.77,1,CLI1120,Sao Paulo,Cartao De Debito,Telefone,1,41.77,2025-10
+506,2025-10-20,Clean Code,Robert C. Martin,Tecnico,47.68,1,CLI1030,Salvador,Nao Informado,Marketplace,Sem Avaliacao,47.68,2025-10
+223,2025-07-28,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,27.3,5,CLI1137,Curitiba,Pix,Loja Física,2,136.5,2025-07
+69,2025-12-22,Sapiens,Yuval Noah Harari,Nao Ficcao,88.38,1,CLI1007,Salvador,Cartao De Credito,Marketplace,5,88.38,2025-12
+587,2025-08-03,Duna,Frank Herbert,Ficcao Cientifica,43.08,3,CLI1041,Belo Horizonte,Cartao De Credito,Telefone,5,129.24,2025-08
+281,2025-01-24,O Alquimista,Paulo Coelho,Ficcao,58.24,3,CLI1126,Osasco,Boleto,Telefone,3,174.72,2025-01
+162,2025-03-10,Duna,Frank Herbert,Ficcao Cientifica,59.27,4,CLI1062,Rio De Janeiro,Pix,Loja Física,4,237.08,2025-03
+246,2025-08-11,1984,George Orwell,Ficcao,22.89,1,CLI1160,Rio De Janeiro,Boleto,Marketplace,4,22.89,2025-08
+45,2025-07-05,O Pequeno Principe,Antoine De Saint-Exupery,Classico,77.46,1,CLI1181,Osasco,Boleto,Telefone,Sem Avaliacao,77.46,2025-07
+403,2025-09-14,Clean Code,Robert C. Martin,Tecnico,50.96,1,CLI1048,Sao Paulo,Pix,Telefone,3,50.96,2025-09
+98,2025-10-16,Mindset,Carol Dweck,Nao Ficcao,86.49,5,CLI1114,Rio De Janeiro,Nao Informado,Marketplace,5,432.45,2025-10
+188,2025-06-25,Duna,Frank Herbert,Ficcao Cientifica,40.92,1,CLI1173,Belo Horizonte,Boleto,Loja Física,2,40.92,2025-06
+394,2026-01-24,O Alquimista,Paulo Coelho,Ficcao,45.7,4,CLI1140,Sao Paulo,Cartao De Credito,Marketplace,4,182.8,2026-01
+469,2025-11-13,Python Fluente,Luciano Ramalho,Tecnico,58.47,2,CLI1114,Sao Paulo,Pix,Site,4,116.94,2025-11
+563,2025-12-28,O Pequeno Principe,Antoine De Saint-Exupery,Classico,39.15,2,CLI1113,Curitiba,Cartao De Credito,Marketplace,5,78.3,2025-12
+184,2025-10-01,Duna,Frank Herbert,Ficcao Cientifica,51.33,5,CLI1177,Belo Horizonte,Cartao De Debito,Site,Sem Avaliacao,256.65,2025-10
+256,2025-01-04,Clean Code,Robert C. Martin,Tecnico,52.57,4,CLI1169,Belo Horizonte,Pix,Marketplace,Sem Avaliacao,210.28,2025-01
+426,2026-01-21,Clean Code,Robert C. Martin,Tecnico,85.28,1,CLI1197,Sao Paulo,Cartao De Debito,Loja Física,4,85.28,2026-01
+180,2025-05-07,A Menina Que Roubava Livros,Markus Zusak,Ficcao,74.69,3,CLI1152,Belo Horizonte,Nao Informado,Loja Física,Sem Avaliacao,224.07,2025-05
+576,2025-03-07,Mindset,Carol Dweck,Nao Ficcao,24.48,1,CLI1145,Salvador,Boleto,Marketplace,5,24.48,2025-03
+305,2025-07-04,1984,George Orwell,Ficcao,74.9,4,CLI1173,Sao Paulo,Pix,Telefone,3,299.6,2025-07
+356,2025-09-08,Python Fluente,Luciano Ramalho,Tecnico,50.53,2,CLI1145,Sao Paulo,Boleto,Marketplace,4,101.06,2025-09
+468,2026-01-22,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,40.59,2,CLI1170,Osasco,Boleto,Telefone,5,81.18,2026-01
+295,2026-01-30,Dom Casmurro,Machado De Assis,Classico,70.58,1,CLI1131,Belo Horizonte,Nao Informado,Telefone,5,70.58,2026-01
+94,2025-08-09,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,42.87,1,CLI1033,Rio De Janeiro,Cartao De Debito,Loja Física,3,42.87,2025-08
+41,2025-02-11,Clean Code,Robert C. Martin,Tecnico,72.54,4,CLI1004,Osasco,Nao Informado,Site,Sem Avaliacao,290.16,2025-02
+474,2025-06-05,A Menina Que Roubava Livros,Markus Zusak,Ficcao,77.5,2,CLI1143,Curitiba,Cartao De Debito,Loja Física,Sem Avaliacao,155.0,2025-06
+472,2026-01-08,Dom Casmurro,Machado De Assis,Classico,89.38,5,CLI1186,Rio De Janeiro,Cartao De Debito,Loja Física,4,446.9,2026-01
+503,2025-05-12,Dom Casmurro,Machado De Assis,Classico,38.59,2,CLI1060,Salvador,Cartao De Debito,Loja Física,5,77.18,2025-05
+539,2025-07-24,O Pequeno Principe,Antoine De Saint-Exupery,Classico,45.15,2,CLI1131,Salvador,Nao Informado,Telefone,Sem Avaliacao,90.3,2025-07
+253,2025-11-01,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,67.58,2,CLI1045,Belo Horizonte,Cartao De Debito,Marketplace,Sem Avaliacao,135.16,2025-11
+409,2025-12-24,O Pequeno Principe,Antoine De Saint-Exupery,Classico,59.65,1,CLI1024,Curitiba,Cartao De Debito,Marketplace,Sem Avaliacao,59.65,2025-12
+457,2025-07-09,O Alquimista,Paulo Coelho,Ficcao,81.09,4,CLI1180,Belo Horizonte,Cartao De Credito,Site,Sem Avaliacao,324.36,2025-07
+147,2025-02-27,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,79.47,5,CLI1041,Curitiba,Cartao De Debito,Marketplace,5,397.35,2025-02
+8,2025-03-12,Duna,Frank Herbert,Ficcao Cientifica,47.86,2,CLI1126,Curitiba,Cartao De Credito,Site,Sem Avaliacao,95.72,2025-03
+207,2025-02-14,O Pequeno Principe,Antoine De Saint-Exupery,Classico,63.03,5,CLI1035,Salvador,Cartao De Credito,Telefone,2,315.15,2025-02
+283,2025-08-10,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,57.03,1,CLI1123,Rio De Janeiro,Nao Informado,Loja Física,5,57.03,2025-08
+470,2025-08-17,Mindset,Carol Dweck,Nao Ficcao,33.6,1,CLI1131,Curitiba,Cartao De Debito,Loja Física,2,33.6,2025-08
+515,2025-11-28,1984,George Orwell,Ficcao,21.35,1,CLI1160,Belo Horizonte,Boleto,Site,5,21.35,2025-11
+208,2025-12-20,1984,George Orwell,Ficcao,37.27,2,CLI1168,Rio De Janeiro,Pix,Loja Física,1,74.54,2025-12
+564,2025-06-12,Python Fluente,Luciano Ramalho,Tecnico,32.54,1,CLI1065,Sao Paulo,Cartao De Credito,Site,4,32.54,2025-06
+163,2025-07-13,O Hobbit,J.R.R. Tolkien,Fantasia,70.62,2,CLI1154,Osasco,Cartao De Credito,Site,5,141.24,2025-07
+161,2025-07-12,O Pequeno Principe,Antoine De Saint-Exupery,Classico,68.64,4,CLI1193,Belo Horizonte,Nao Informado,Telefone,3,274.56,2025-07
+443,2025-04-20,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,42.6,1,CLI1151,Salvador,Boleto,Marketplace,1,42.6,2025-04
+318,2025-12-24,Mindset,Carol Dweck,Nao Ficcao,56.44,3,CLI1109,Curitiba,Boleto,Telefone,Sem Avaliacao,169.32,2025-12
+589,2025-08-14,Clean Code,Robert C. Martin,Tecnico,22.0,1,CLI1161,Sao Paulo,Nao Informado,Marketplace,4,22.0,2025-08
+134,2026-01-27,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,40.1,4,CLI1071,Rio De Janeiro,Nao Informado,Site,Sem Avaliacao,160.4,2026-01
+212,2025-08-12,Sapiens,Yuval Noah Harari,Nao Ficcao,60.95,1,CLI1014,Rio De Janeiro,Boleto,Site,4,60.95,2025-08
+399,2025-06-23,O Poder Do Habito,Charles Duhigg,Nao Ficcao,78.14,2,CLI1121,Salvador,Cartao De Credito,Loja Física,Sem Avaliacao,156.28,2025-06
+71,2025-12-13,A Revolucao Dos Bichos,George Orwell,Classico,82.82,5,CLI1040,Osasco,Cartao De Credito,Telefone,Sem Avaliacao,414.09999999999997,2025-12
+490,2025-05-09,O Poder Do Habito,Charles Duhigg,Nao Ficcao,30.22,5,CLI1127,Belo Horizonte,Boleto,Loja Física,Sem Avaliacao,151.1,2025-05
+429,2025-02-20,O Hobbit,J.R.R. Tolkien,Fantasia,79.98,3,CLI1167,Belo Horizonte,Nao Informado,Telefone,5,239.94,2025-02
+550,2025-05-24,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,41.86,3,CLI1156,Osasco,Boleto,Telefone,Sem Avaliacao,125.58,2025-05
+133,2025-08-09,Python Fluente,Luciano Ramalho,Tecnico,39.9,1,CLI1067,Salvador,Pix,Telefone,3,39.9,2025-08
+114,2026-01-11,O Poder Do Habito,Charles Duhigg,Nao Ficcao,63.48,1,CLI1197,Osasco,Nao Informado,Marketplace,2,63.48,2026-01
+421,2025-02-10,A Revolucao Dos Bichos,George Orwell,Classico,71.01,2,CLI1156,Salvador,Cartao De Credito,Loja Física,Sem Avaliacao,142.02,2025-02
+335,2025-10-20,O Poder Do Habito,Charles Duhigg,Nao Ficcao,79.7,2,CLI1147,Salvador,Boleto,Site,3,159.4,2025-10
+12,2025-11-07,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,66.08,1,CLI1054,Curitiba,Nao Informado,Loja Física,4,66.08,2025-11
+531,2025-09-27,O Alquimista,Paulo Coelho,Ficcao,67.25,1,CLI1021,Curitiba,Pix,Telefone,Sem Avaliacao,67.25,2025-09
+59,2025-08-29,Python Fluente,Luciano Ramalho,Tecnico,50.41,5,CLI1104,Osasco,Pix,Marketplace,5,252.04999999999998,2025-08
+466,2025-12-29,Clean Code,Robert C. Martin,Tecnico,34.57,1,CLI1170,Curitiba,Pix,Marketplace,1,34.57,2025-12
+592,2025-04-09,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,28.19,1,CLI1096,Curitiba,Pix,Marketplace,Sem Avaliacao,28.19,2025-04
+537,2025-08-12,O Alquimista,Paulo Coelho,Ficcao,34.55,1,CLI1048,Salvador,Cartao De Credito,Marketplace,Sem Avaliacao,34.55,2025-08
+299,2025-02-07,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,72.82,1,CLI1128,Sao Paulo,Cartao De Credito,Marketplace,5,72.82,2025-02
+239,2025-01-18,Mindset,Carol Dweck,Nao Ficcao,31.29,1,CLI1005,Salvador,Pix,Marketplace,5,31.29,2025-01
+211,2025-10-02,A Menina Que Roubava Livros,Markus Zusak,Ficcao,79.98,4,CLI1157,Salvador,Boleto,Marketplace,Sem Avaliacao,319.92,2025-10
+291,2025-03-08,1984,George Orwell,Ficcao,22.74,2,CLI1149,Rio De Janeiro,Pix,Site,3,45.48,2025-03
+204,2025-02-16,O Pequeno Principe,Antoine De Saint-Exupery,Classico,63.69,2,CLI1000,Rio De Janeiro,Boleto,Telefone,2,127.38,2025-02
+28,2026-01-31,Sapiens,Yuval Noah Harari,Nao Ficcao,47.79,2,CLI1089,Rio De Janeiro,Nao Informado,Telefone,5,95.58,2026-01
+501,2025-09-22,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,32.54,1,CLI1147,Belo Horizonte,Cartao De Debito,Loja Física,3,32.54,2025-09
+66,2025-12-06,Clean Code,Robert C. Martin,Tecnico,83.84,4,CLI1126,Salvador,Cartao De Credito,Loja Física,3,335.36,2025-12
+182,2025-05-24,O Poder Do Habito,Charles Duhigg,Nao Ficcao,87.64,2,CLI1093,Osasco,Cartao De Credito,Loja Física,4,175.28,2025-05
+567,2025-04-30,Clean Code,Robert C. Martin,Tecnico,24.48,1,CLI1068,Belo Horizonte,Nao Informado,Site,1,24.48,2025-04
+107,2025-05-25,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,67.38,5,CLI1128,Belo Horizonte,Nao Informado,Telefone,4,336.9,2025-05
+176,2025-11-13,Sapiens,Yuval Noah Harari,Nao Ficcao,50.13,4,CLI1063,Osasco,Cartao De Credito,Site,5,200.52,2025-11
+96,2025-10-29,1984,George Orwell,Ficcao,26.07,1,CLI1134,Curitiba,Cartao De Credito,Telefone,4,26.07,2025-10
+312,2025-11-26,Mindset,Carol Dweck,Nao Ficcao,50.69,2,CLI1054,Sao Paulo,Boleto,Loja Física,5,101.38,2025-11
+463,2025-02-02,1984,George Orwell,Ficcao,50.97,1,CLI1059,Belo Horizonte,Nao Informado,Marketplace,1,50.97,2025-02
+584,2025-03-06,O Alquimista,Paulo Coelho,Ficcao,61.4,2,CLI1065,Curitiba,Pix,Telefone,Sem Avaliacao,122.8,2025-03
+337,2025-05-11,Harry Potter E A Pedra Filosofal,J.K. Rowling,Fantasia,26.83,1,CLI1161,Curitiba,Cartao De Credito,Telefone,Sem Avaliacao,26.83,2025-05
+112,2025-10-22,A Revolucao Dos Bichos,George Orwell,Classico,61.67,1,CLI1183,Sao Paulo,Boleto,Marketplace,4,61.67,2025-10
+487,2025-07-28,A Revolucao Dos Bichos,George Orwell,Classico,67.99,5,CLI1109,Curitiba,Boleto,Site,5,339.95,2025-07
+193,2025-09-08,A Revolucao Dos Bichos,George Orwell,Classico,84.24,1,CLI1035,Salvador,Boleto,Marketplace,5,84.24,2025-09
+396,2025-10-22,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,62.52,3,CLI1090,Salvador,Boleto,Telefone,5,187.56,2025-10
+548,2025-08-15,O Poder Do Habito,Charles Duhigg,Nao Ficcao,86.53,3,CLI1197,Belo Horizonte,Cartao De Credito,Site,3,259.59000000000003,2025-08
+231,2025-04-23,O Pequeno Principe,Antoine De Saint-Exupery,Classico,77.04,1,CLI1099,Rio De Janeiro,Pix,Loja Física,5,77.04,2025-04
+210,2025-02-04,O Poder Do Habito,Charles Duhigg,Nao Ficcao,73.29,1,CLI1067,Osasco,Boleto,Site,1,73.29,2025-02
+391,2025-12-04,A Revolucao Dos Bichos,George Orwell,Classico,81.69,2,CLI1116,Curitiba,Cartao De Debito,Telefone,Sem Avaliacao,163.38,2025-12
+401,2025-07-12,"Pai Rico, Pai Pobre",Robert Kiyosaki,Nao Ficcao,39.53,1,CLI1042,Osasco,Nao Informado,Telefone,Sem Avaliacao,39.53,2025-07
+588,2026-01-29,O Pequeno Principe,Antoine De Saint-Exupery,Classico,63.57,2,CLI1189,Rio De Janeiro,Cartao De Debito,Loja Física,5,127.14,2026-01
+339,2025-03-16,A Revolucao Dos Bichos,George Orwell,Classico,46.57,2,CLI1163,Salvador,Pix,Telefone,3,93.14,2025-03
+158,2025-02-04,Dom Casmurro,Machado De Assis,Classico,73.52,1,CLI1152,Sao Paulo,Cartao De Credito,Telefone,2,73.52,2025-02
+143,2025-10-03,Clean Code,Robert C. Martin,Tecnico,72.21,2,CLI1143,Belo Horizonte,Pix,Loja Física,5,144.42,2025-10
+33,2025-01-24,Clean Code,Robert C. Martin,Tecnico,41.63,2,CLI1121,Sao Paulo,Nao Informado,Site,4,83.26,2025-01
+582,2025-05-31,A Menina Que Roubava Livros,Markus Zusak,Ficcao,24.51,1,CLI1102,Curitiba,Cartao De Credito,Telefone,4,24.51,2025-05
+24,2025-08-15,A Menina Que Roubava Livros,Markus Zusak,Ficcao,73.88,2,CLI1180,Sao Paulo,Cartao De Debito,Site,Sem Avaliacao,147.76,2025-08
